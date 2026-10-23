@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { pageMeta } from "@/lib/seo";
 import { Suspense } from "react";
 import { ArrowDown } from "lucide-react";
 import PageHero from "@/components/ui/PageHero";
@@ -6,11 +7,12 @@ import ContactSection from "@/components/forms/ContactSection";
 import CustomTripForm from "@/components/forms/CustomTripForm";
 import PrefilledTripForm from "./PrefilledTripForm";
 
-export const metadata: Metadata = {
+export const metadata: Metadata = pageMeta({
   title: "Contact Us",
+  path: "/contact-us",
   description:
     "Contact Vibe & Travel Pakistan to plan your next adventure. Ask about Pakistan tour packages, departure dates, group trips, or request a custom itinerary.",
-};
+});
 
 export default function ContactPage() {
   return (

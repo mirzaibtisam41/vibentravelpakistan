@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { JsonLd, packagesListJsonLd, pageMeta } from "@/lib/seo";
 import { Suspense } from "react";
 import { ArrowDown } from "lucide-react";
 import PageHero from "@/components/ui/PageHero";
@@ -7,15 +8,17 @@ import PackageGrid from "@/components/ui/PackageGrid";
 import { packages } from "@/data/site";
 import PackagesBrowser from "./PackagesBrowser";
 
-export const metadata: Metadata = {
+export const metadata: Metadata = pageMeta({
   title: "Tour Packages",
+  path: "/tour-packages",
   description:
     "Explore Pakistan tour packages with Vibe & Travel Pakistan. Discover Hunza, Skardu, Fairy Meadows, Neelum Valley, and northern Pakistan trips. Compare itineraries, check prices, and enquire about departures.",
-};
+});
 
 export default function TourPackagesPage() {
   return (
     <>
+      <JsonLd data={packagesListJsonLd(packages)} />
       <PageHero
         image="/images/hunza.webp"
         imageAlt="Dramatic Karakoram mountains and turquoise Hunza Lake"

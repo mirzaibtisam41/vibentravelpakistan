@@ -26,6 +26,7 @@ import Faq from "@/components/package/Faq";
 import SectionNav from "@/components/package/SectionNav";
 import { getPackage, packages } from "@/data/site";
 import { formatMeals, formatRs, generalWhatsapp, packageWhatsapp } from "@/lib/utils";
+import { JsonLd, packageJsonLd, pageMeta } from "@/lib/seo";
 
 export function generateStaticParams() {
   return packages.map((p) => ({ slug: p.slug }));
@@ -35,11 +36,12 @@ export async function generateMetadata({ params }: PageProps<"/tour-packages/[sl
   const { slug } = await params;
   const p = getPackage(slug);
   if (!p) return {};
-  return {
+  return pageMeta({
     title: p.name,
+    path: `/tour-packages/${p.slug}`,
+    image: p.image,
     description: `Explore ${p.name}, a ${p.duration}-day trip with Vibe & Travel Pakistan. Review the itinerary, room-sharing prices, inclusions, and departure information.`,
-    openGraph: { images: [p.image] },
-  };
+  });
 }
 
 function SectionTitle({ eyebrow, children }: { eyebrow: string; children: React.ReactNode }) {
@@ -86,6 +88,7 @@ export default async function PackagePage({ params }: PageProps<"/tour-packages/
 
   return (
     <>
+      <JsonLd data={packageJsonLd(p)} />
       <PageHero
         image={p.image}
         imageAlt={p.name}

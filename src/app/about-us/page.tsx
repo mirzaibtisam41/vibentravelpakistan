@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { pageMeta } from "@/lib/seo";
 import Link from "next/link";
 import { ArrowUpRight } from "lucide-react";
 import PageHero from "@/components/ui/PageHero";
@@ -6,11 +7,12 @@ import Story from "@/components/about/Story";
 import WhyUs from "@/components/home/WhyUs";
 import Moments from "@/components/home/Moments";
 
-export const metadata: Metadata = {
+export const metadata: Metadata = pageMeta({
   title: "About Us",
+  path: "/about-us",
   description:
     "Get to know Vibe & Travel Pakistan. Discover our approach to exploring Pakistan through mountain escapes, meaningful experiences, and thoughtfully planned journeys.",
-};
+});
 
 export default function AboutPage() {
   return (

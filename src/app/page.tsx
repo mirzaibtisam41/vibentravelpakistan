@@ -5,6 +5,9 @@ import DestinationsRing from "@/components/home/DestinationsRing";
 import WhyUs from "@/components/home/WhyUs";
 import Moments from "@/components/home/Moments";
 import CustomTripForm from "@/components/forms/CustomTripForm";
+import { defaultDescription, pageMeta } from "@/lib/seo";
+
+export const metadata = pageMeta({ description: defaultDescription, path: "/" });
 
 export default function Home() {
   return (

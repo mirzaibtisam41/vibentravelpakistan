@@ -1,14 +1,16 @@
 import type { Metadata } from "next";
+import { pageMeta } from "@/lib/seo";
 import { ArrowDown } from "lucide-react";
 import PageHero from "@/components/ui/PageHero";
 import { SplitHeading } from "@/components/ui/Reveal";
 import DestinationRows from "@/components/destinations/DestinationRows";
 
-export const metadata: Metadata = {
+export const metadata: Metadata = pageMeta({
   title: "Destinations",
+  path: "/destinations",
   description:
     "Explore Hunza, Skardu, Fairy Meadows, Neelum Valley, and Pakistan’s northern destinations. Find travel inspiration and plan your next adventure with Vibe & Travel Pakistan.",
-};
+});
 
 export default function DestinationsPage() {
   return (

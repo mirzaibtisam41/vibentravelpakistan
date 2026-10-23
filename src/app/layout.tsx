@@ -6,6 +6,7 @@ import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 import FloatingActions from "@/components/layout/FloatingActions";
 import Preloader from "@/components/layout/Preloader";
+import { defaultDescription, defaultTitle, JsonLd, pageMeta, siteJsonLd, siteUrl } from "@/lib/seo";
 
 const manrope = Manrope({
   variable: "--font-manrope",
@@ -21,23 +22,16 @@ const instrument = Instrument_Serif({
 });
 
 export const metadata: Metadata = {
-  // Share-preview images resolve against the domain this build is served from (Vercel sets this at build time).
-  metadataBase: new URL(
-    process.env.VERCEL_PROJECT_PRODUCTION_URL ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}` : "https://vibentravelpakistan.com",
-  ),
+  // Canonical and share-preview URLs resolve against the domain this build is served from.
+  metadataBase: new URL(siteUrl),
   title: {
-    default: "Vibe & Travel Pakistan | Discover Pakistan",
+    default: defaultTitle,
     template: "%s | Vibe & Travel Pakistan",
   },
-  description:
-    "Explore Pakistan with Vibe & Travel Pakistan. Discover northern mountain destinations, scenic road trips, trekking adventures, group tours, and custom travel experiences.",
   icons: { icon: "/images/logo.png", apple: "/images/logo.png" },
-  openGraph: {
-    title: "Vibe & Travel Pakistan | Discover Pakistan",
-    description: "Extraordinary places, unforgettable journeys. Discover Pakistan your way.",
-    // JPG, not WebP: WhatsApp and some other link previews don't render WebP.
-    images: [{ url: "/images/og.jpg", width: 1200, height: 630, alt: "Hunza Valley and the Karakoram mountains" }],
-  },
+  // Defaults only: each page sets its own canonical, so pages without one (404) don't inherit "/".
+  ...pageMeta({ description: defaultDescription, path: "/" }),
+  alternates: undefined,
 };
 
 export const viewport: Viewport = {
@@ -56,6 +50,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         />
       </head>
       <body className="min-h-screen">
+        <JsonLd data={siteJsonLd} />
         <Preloader />
         <SmoothScroll />
         <Navbar />
