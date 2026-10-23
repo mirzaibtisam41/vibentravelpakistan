@@ -70,7 +70,9 @@ export default function WhyUs() {
         );
       gsap.from(".why-copy > p, .why-copy > a", { y: 24, opacity: 0, stagger: 0.12, scrollTrigger: { trigger: ".why-copy", start: "top 80%" } });
     },
-    { scope: ref, dependencies: [webgl] },
+    // Revert before re-running: `webgl` flips to true right after hydration, and a second from() would
+    // otherwise capture the first one's half-faded values as its end state and leave the section faded.
+    { scope: ref, dependencies: [webgl], revertOnUpdate: true },
   );
 
   return (
