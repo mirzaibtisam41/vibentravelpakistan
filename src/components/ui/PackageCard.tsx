@@ -89,7 +89,7 @@ export default function PackageCard({ p }: { p: TourPackage }) {
             <a href={packageWhatsapp(p)} target="_blank" rel="noreferrer" className="btn btn-green flex-1 min-h-12! px-4! text-sm!">
               <WhatsAppIcon className="size-4" /> Book Now
             </a>
-            <Link href={`/tour-packages/${p.slug}`} className="btn btn-outline flex-1 min-h-12! px-4! text-sm! text-ink">
+            <Link href={`/tour-packages/${p.slug}`} className="btn btn-outline flex-1 min-h-12! px-4! text-sm!">
               More Details <ArrowUpRight className="size-4" />
             </Link>
           </div>

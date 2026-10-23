@@ -1,6 +1,6 @@
 /**
- * WebGL scenes (hero valley, floating island) roughly halve the scroll frame rate on
- * mid-range phones, so phones get lightweight photo-based versions instead.
+ * WebGL scenes (hero photo transitions, floating island) are skipped on phones to keep
+ * scrolling smooth; phones get CSS photo slideshows / photo cards instead.
  * Set to true to run WebGL on phones as well.
  */
 export const WEBGL_ON_PHONES = false;

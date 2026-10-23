@@ -259,7 +259,7 @@ export default function CustomTripForm({ defaultDestination }: { defaultDestinat
                 <p className="mx-auto mt-3 max-w-md text-stone">
                   Just tap send. Our team will get back to you about the route, stays, transport and budget.
                 </p>
-                <button type="button" className="btn btn-outline mt-8 text-ink" onClick={() => {
+                <button type="button" className="btn btn-outline mt-8" onClick={() => {
                     setSent(false);
                     setStep(0);
                   }}>
@@ -396,7 +396,7 @@ export default function CustomTripForm({ defaultDestination }: { defaultDestinat
             {!sent && (
               <div className="mt-8 flex items-center justify-between gap-3 border-t border-ink/8 pt-6">
                 {step > 0 ? (
-                  <button type="button" onClick={() => go(step - 1)} className="btn btn-outline text-ink">
+                  <button type="button" onClick={() => go(step - 1)} className="btn btn-outline">
                     <ArrowLeft className="size-4" /> Back
                   </button>
                 ) : (

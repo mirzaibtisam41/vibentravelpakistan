@@ -103,7 +103,7 @@ export default function ContactSection() {
                   <Check className="size-7" />
                 </span>
                 <p className="mt-5 text-lg font-extrabold">Your message is waiting in WhatsApp. Just tap send.</p>
-                <button type="button" onClick={() => setSent(false)} className="btn btn-outline mt-6 text-ink">
+                <button type="button" onClick={() => setSent(false)} className="btn btn-outline mt-6">
                   Send another message
                 </button>
               </div>

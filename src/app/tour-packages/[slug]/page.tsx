@@ -296,7 +296,7 @@ export default async function PackagePage({ params }: PageProps<"/tour-packages/
                 You might <span className="serif-accent text-pine-700">also like</span>
               </SplitHeading>
             </div>
-            <Link href="/tour-packages" className="btn btn-outline text-ink">
+            <Link href="/tour-packages" className="btn btn-outline">
               View All Tour Packages <ArrowRight className="size-4" />
             </Link>
           </div>

@@ -123,14 +123,9 @@ export default function Footer() {
         PAKISTAN
       </div>
 
-      <div className="container-x relative z-10 flex flex-col items-center justify-between gap-3 border-t border-white/10 py-6 pb-24 text-sm text-white/50 sm:flex-row sm:pb-6 sm:pr-24">
+      {/* Extra bottom space on phones keeps the line clear of the floating buttons. */}
+      <div className="container-x relative z-10 border-t border-white/10 pb-40 pt-6 text-center text-sm text-white/50 sm:pb-6">
         <p>© 2026 Vibe &amp; Travel Pakistan. All rights reserved.</p>
-        <p>
-          Developed by{" "}
-          <a href={site.developer.url} target="_blank" rel="noreferrer" className="text-white/80 hover:text-alpen-300">
-            {site.developer.name}
-          </a>
-        </p>
       </div>
     </footer>
   );

@@ -11,15 +11,17 @@ import { onIntroDone } from "@/components/layout/Preloader";
 import { SplitHeading } from "@/components/ui/Reveal";
 import { canUseWebGL, subscribeNoop } from "@/lib/device";
 
-const MountainScene = dynamic(() => import("@/components/three/MountainScene"), { ssr: false });
+const HeroScene = dynamic(() => import("@/components/three/HeroScene"), { ssr: false });
+const slideImages = heroSlides.map((s) => s.image);
+const N = heroSlides.length;
 
 export default function Hero() {
   const root = useRef<HTMLElement>(null);
   const progress = useRef(0);
   const [active, setActive] = useState(0);
-  // WebGL on desktops/tablets; phones, reduced-motion users and weak CPUs keep the photo (see lib/device).
+  // WebGL on desktops/tablets; phones, reduced-motion users and weak CPUs keep the CSS slideshow (see lib/device).
   const use3D = useSyncExternalStore(subscribeNoop, canUseWebGL, () => false);
-  // Phones/tablets get a lighter scene (fewer polygons, 1x resolution, less snow).
+  // Tablets get a lighter scene (1x resolution, fewer particles).
   const lowPower = useSyncExternalStore(
     subscribeNoop,
     () => window.matchMedia("(pointer: coarse), (max-width: 1023px)").matches,
@@ -51,12 +53,12 @@ export default function Hero() {
     };
   }, [use3D, mount3D, inView]);
 
+  // Autoplay through the destinations while the hero is visible; a manual pick restarts the timer.
   useEffect(() => {
-    // The deck is only shown on large screens; don't animate it while hidden or off-screen.
-    if (!inView || !window.matchMedia("(min-width: 1024px)").matches) return;
-    const id = setInterval(() => setActive((a) => (a + 1) % heroSlides.length), 5000);
-    return () => clearInterval(id);
-  }, [inView]);
+    if (!inView || window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+    const id = setTimeout(() => setActive((a) => (a + 1) % N), 7000);
+    return () => clearTimeout(id);
+  }, [inView, active]);
 
   useGSAP(
     () => {
@@ -69,7 +71,7 @@ export default function Hero() {
         gsap.to(deck, { autoAlpha: 1, rotateY: 0, x: 0, duration: 1.6, delay: 0.5, ease: "expo.out" });
       });
 
-      // Scroll fly-through: drives the 3D camera and parallaxes the copy away.
+      // Scroll: pushes the photo in (WebGL) and parallaxes the copy away.
       gsap.to(progress, {
         current: 1,
         ease: "none",
@@ -91,12 +93,12 @@ export default function Hero() {
     { scope: root },
   );
 
-  // 3D card deck: rotate cards into their stacked positions whenever the slide changes.
+  // 3D card deck of upcoming destinations: the front card is the next slide.
   useGSAP(
     () => {
       const cards = gsap.utils.toArray<HTMLElement>(".deck-card");
       cards.forEach((card, i) => {
-        const pos = (i - active + cards.length) % cards.length;
+        const pos = (i - active - 1 + 2 * N) % N;
         gsap.to(card, {
           x: pos * 26,
           y: pos * -14,
@@ -114,22 +116,37 @@ export default function Hero() {
   );
 
   const slide = heroSlides[active];
+  const next = heroSlides[(active + 1) % N];
 
   return (
     <section ref={root} className="relative h-[100svh] min-h-[640px] overflow-hidden bg-night text-white">
-      {/* Photographic fallback / under-layer */}
-      <Image
-        src="/images/hunza.webp"
-        alt="Dramatic Karakoram mountains and turquoise Hunza Lake"
-        fill
-        loading="eager"
-        fetchPriority="high"
-        sizes="100vw"
-        className="animate-[kenburns_22s_ease-out_both] object-cover opacity-90"
-      />
+      {/* Real-photo slideshow: first paint everywhere, and the whole hero on phones.
+          The active photo fades in while slowly zooming out (compositor-only transforms). */}
+      {heroSlides.map((s, i) => (
+        <Image
+          key={s.name}
+          src={s.image}
+          alt={i === active ? `${s.name}, ${s.region}` : ""}
+          aria-hidden={i !== active}
+          fill
+          loading={i === 0 ? "eager" : "lazy"}
+          fetchPriority={i === 0 ? "high" : "low"}
+          sizes="100vw"
+          className={`object-cover transition-[opacity,transform] ease-out [transition-duration:1.6s,9s] ${
+            i === active ? "scale-100 opacity-100" : "scale-110 opacity-0"
+          }`}
+        />
+      ))}
       {mount3D && (
         <div className={`absolute inset-0 transition-opacity duration-[1.4s] ${ready3D ? "opacity-100" : "opacity-0"}`}>
-          <MountainScene progress={progress} active={inView} lowPower={lowPower} onReady={() => setReady3D(true)} />
+          <HeroScene
+            images={slideImages}
+            index={active}
+            progress={progress}
+            active={inView}
+            lowPower={lowPower}
+            onReady={() => setReady3D(true)}
+          />
         </div>
       )}
 
@@ -140,6 +157,16 @@ export default function Hero() {
       <div className="container-x relative z-10 flex h-full flex-col justify-end pb-10 pt-28 sm:pb-14">
         <div className="grid items-end gap-10 lg:grid-cols-[1.35fr_1fr]">
           <div className="hero-copy">
+            {/* Phones/tablets: which destination is on screen (the deck shows this on desktop). */}
+            <p className="hero-fade mb-4 flex items-center gap-2 text-sm font-semibold text-white/85 lg:hidden">
+              <MapPin className="size-4 text-alpen-300" />
+              <span key={slide.name} className="animate-[fadeUp_.6s_ease-out]">
+                {slide.name}, {slide.region.replace(", Pakistan", "")}
+              </span>
+              <span className="font-mono text-xs text-white/50">
+                {String(active + 1).padStart(2, "0")}/{String(N).padStart(2, "0")}
+              </span>
+            </p>
             <span className="hero-fade eyebrow text-alpen-300">Your Next Adventure Starts Here</span>
             <SplitHeading as="h1" immediate delay={0.2} className="heading-xl mt-5 max-w-4xl">
               Find Your Vibe. <span className="serif-accent text-glacier-300">Explore</span> Pakistan.
@@ -172,16 +199,17 @@ export default function Hero() {
           {/* 3D destination deck */}
           <div className="hero-deck-wrap hidden justify-end lg:flex">
             <div className="hero-deck perspective w-[340px]">
+              <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.25em] text-white/60">Up next</p>
               <button
-                onClick={() => setActive((a) => (a + 1) % heroSlides.length)}
+                onClick={() => setActive((a) => (a + 1) % N)}
                 className="preserve-3d relative block h-[230px] w-[320px] cursor-pointer"
-                aria-label="Next destination"
+                aria-label={`Next destination: ${next.name}`}
               >
                 {heroSlides.map((s, i) => (
                   <div
                     key={s.name}
                     className="deck-card backface-hidden absolute inset-0 overflow-hidden rounded-3xl border border-white/20 shadow-[0_30px_60px_-20px_rgba(0,0,0,.8)]"
-                    style={{ zIndex: heroSlides.length - i }}
+                    style={{ zIndex: N - i }}
                   >
                     <Image src={s.image} alt={s.name} fill sizes="320px" className="object-cover" />
                     <div className="absolute inset-0 bg-linear-to-t from-night/85 via-transparent to-transparent" />
@@ -197,7 +225,7 @@ export default function Hero() {
               <div className="mt-6 flex items-center justify-between pr-4">
                 <div className="text-sm">
                   <span className="font-mono text-alpen-300">{String(active + 1).padStart(2, "0")}</span>
-                  <span className="font-mono text-white/40"> / {String(heroSlides.length).padStart(2, "0")}</span>
+                  <span className="font-mono text-white/40"> / {String(N).padStart(2, "0")}</span>
                   <span className="ml-3 font-semibold">{slide.name}</span>
                 </div>
                 <div className="flex gap-1.5">
@@ -218,7 +246,7 @@ export default function Hero() {
 
       <div className="pointer-events-none absolute bottom-6 left-1/2 z-10 hidden -translate-x-1/2 flex-col items-center gap-2 text-[10px] font-bold uppercase tracking-[0.3em] text-white/60 lg:flex">
         <MousePointer2 className="size-4 animate-bounce" />
-        Scroll to fly in
+        Scroll to explore
       </div>
     </section>
   );

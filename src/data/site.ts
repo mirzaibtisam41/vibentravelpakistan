@@ -52,7 +52,6 @@ export const site = {
     image: "/images/founder.webp",
     instagram: "https://www.instagram.com/musafirrali/",
   },
-  developer: { name: "Creator Ali", url: "https://www.instagram.com/creatorrali/" },
 };
 
 export const nav = [
