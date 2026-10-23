@@ -161,7 +161,7 @@ export default function DestinationsRing() {
           ))}
         </div>
 
-        <p className="container-x relative z-10 mt-8 pb-4 text-xs text-white/40 md:mt-0">
+        <p className="container-x relative z-10 mt-8 pb-4 text-xs text-white/60 md:mt-0">
           Photos are here for inspiration and may not show the exact departures or accommodation on our trips.
         </p>
       </div>

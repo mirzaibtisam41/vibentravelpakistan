@@ -45,7 +45,7 @@ export default function Itinerary({ days }: { days: ItineraryDay[] }) {
       {days.map((d) => (
         <li key={d.day} className="it-item relative grid grid-cols-[3.25rem_1fr] gap-4 sm:gap-6">
           <div className="it-dot relative z-10 flex size-[3.25rem] flex-col items-center justify-center rounded-2xl border-2 border-pine-700/20 bg-white text-center font-extrabold text-pine-700 shadow-sm">
-            <span className="text-[9px] leading-none tracking-widest opacity-70">DAY</span>
+            <span className="text-[9px] leading-none tracking-widest">DAY</span>
             <span className="mt-1 text-lg leading-none">{String(d.day).padStart(2, "0")}</span>
           </div>
           <div className="it-card rounded-3xl border border-ink/8 bg-white p-6 shadow-[0_20px_50px_-35px_rgba(6,29,21,.5)]">
