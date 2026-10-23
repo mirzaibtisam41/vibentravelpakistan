@@ -1,0 +1,1760 @@
+[
+  {
+    "slug": "mushkpuri-top-khanpur-dam",
+    "name": "Mushkpuri Top & Khanpur Dam",
+    "duration": 1,
+    "location": "Mushkpuri Top, Khanpur Dam",
+    "short": "A day trip for mountain views at Mushkpuri Top and time around Khanpur Dam, with the route confirmed before departure.",
+    "image": "/images/mushkpuri.webp",
+    "available": true,
+    "price": 5999,
+    "priceOld": 6999,
+    "couple": null,
+    "coupleOld": null,
+    "departure": "Enquire for Availability",
+    "transport": "Coaster/Hiace",
+    "hotel": "Neat & Clean",
+    "meals": "1 breakfast / 0 dinners",
+    "overview": "A day out in the hills, with mountain scenery at Mushkpuri Top and time around Khanpur Dam. We'll confirm the exact route with you before departure.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Mushkpuri Top and Khanpur Dam Day Trip",
+        "description": "We meet at the pickup point and head out, with rest and refreshment stops on the way. The plan is to visit Khanpur Dam and/or Mushkpuri Top, and we'll confirm before departure whether both fit into one day and in which order. Local jeep rides, paid activities, entry charges and personal shopping are not included. The group meets up again at an agreed time for the drive back to the drop-off point."
+      }
+    ],
+    "packIntro": "A few essentials make the trip far more comfortable. Pack for the season, check the forecast before you leave, and bring extra layers and proper footwear if your route includes trekking.",
+    "pack": [
+      "Original CNIC or another valid photo ID",
+      "Cash for personal expenses and local charges",
+      "Comfortable walking shoes, or trekking shoes for trekking routes",
+      "Clothes for the season that you can layer",
+      "Warm jacket and a rain or windproof outer layer",
+      "Your personal and prescribed medicines",
+      "Toiletries, a towel and hygiene essentials",
+      "Reusable water bottle",
+      "Sunglasses, sunscreen and a cap or hat",
+      "Phone, charger and power bank",
+      "Small daypack, extra socks and trekking poles if you use them",
+      "Warm gloves, a woollen cap and a headlamp or torch",
+      "Light snacks for the trail"
+    ],
+    "included": [
+      "Comfortable transport for the whole trip",
+      "Fuel and road tolls",
+      "Meals: 1 breakfast (no dinner)",
+      "Professional trip guidance"
+    ],
+    "excluded": [
+      "Jeep transfers and local 4x4 rides",
+      "Personal expenses",
+      "Optional activities, activity charges and other paid experiences",
+      "Entry tickets, permits, equipment hire and attraction fees",
+      "Lunches and any meals not in the meal plan"
+    ],
+    "departures": [
+      {
+        "city": "Lahore",
+        "schedule": "Saturday Night"
+      },
+      {
+        "city": "Islamabad",
+        "schedule": "Sunday Morning"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What does the package include?",
+        "a": "Everything listed under Inclusions above. Check the Exclusions too, and our team will confirm the final inclusions with you before you book."
+      },
+      {
+        "q": "Are local jeep rides and activities included?",
+        "a": "No, unless they appear in the inclusions. Local jeep and 4x4 transfers, chairlifts, entry tickets and optional activities are paid separately, so ask our team about any charges for this destination before you travel."
+      },
+      {
+        "q": "Which cities do you depart from?",
+        "a": "We usually leave Lahore on Saturday night and Islamabad on Sunday morning. This is our regular schedule, not a confirmed departure date, so message us to check availability for the date you want."
+      },
+      {
+        "q": "Which meals are included?",
+        "a": "This 1-day trip includes 1 breakfast (no dinner). Lunches and any meals not listed in your final booking confirmation are not included, and our team will confirm the meal plan before departure."
+      },
+      {
+        "q": "What should I pack?",
+        "a": "Bring a valid photo ID, comfortable trekking shoes, layers, a warm jacket, rain protection, any medication you need, toiletries, a water bottle, sun protection, your phone charger and power bank, and some cash. For the trek, add a small daypack, extra socks, warm gloves and a cap, a headlamp or torch, and light snacks."
+      },
+      {
+        "q": "How do I book a seat?",
+        "a": "Tap the Enquire About This Trip button or message us on WhatsApp. Before you pay anything, we'll confirm the departure date, seat availability, final price and how to pay or secure your seat."
+      },
+      {
+        "q": "Can the plan change because of weather or roads?",
+        "a": "Yes. Mountain weather, road access, local restrictions and safety can all affect the plan. If a route or stop becomes unsafe or unreachable, we'll adjust the route or swap in another stop."
+      }
+    ],
+    "pricing": [
+      {
+        "label": "Starting From",
+        "sub": "4–5 Persons Sharing",
+        "amount": 6999
+      },
+      {
+        "label": "Couple Price",
+        "sub": "2 Persons Room Sharing",
+        "amount": null
+      }
+    ],
+    "hiking": false
+  },
+  {
+    "slug": "shogran-siri-paye",
+    "name": "Shogran & Siri Paye",
+    "duration": 2,
+    "location": "Shogran, Siri Paye",
+    "short": "Mountain views in Shogran and the open meadows of Siri Paye.",
+    "image": "/images/shogran.webp",
+    "available": true,
+    "price": 10999,
+    "priceOld": 11999,
+    "couple": 25000,
+    "coupleOld": 27000,
+    "departure": "Enquire for Availability",
+    "transport": "Coaster/Hiace",
+    "hotel": "Neat & Clean",
+    "meals": "2 breakfasts / 1 dinner",
+    "overview": "Two days in the Kaghan region, with a night in Shogran to enjoy the mountain views and a morning up at the meadows of Siri Paye.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Drive to Shogran",
+        "description": "We set off from the pickup point and drive through the Kaghan region, with rest stops along the way. Once we reach Shogran, check in and settle in, then head out to the nearby meadows and viewpoints if there's time after arrival. Dinner follows, with a bonfire if local conditions allow, and we spend the night in Shogran."
+      },
+      {
+        "day": 2,
+        "title": "Siri Paye Meadows and Return",
+        "description": "After breakfast, we head up to Siri Paye Meadows and its viewpoints, as long as the road and weather allow. The 4x4 jeep up to Siri Paye is not included, so budget for it separately if you go. Once you've had time for photos, we return to the meeting point, check out and start the drive home with rest stops along the way."
+      }
+    ],
+    "packIntro": "A few essentials make the trip far more comfortable. Pack for the season, check the forecast before you leave, and bring extra layers and proper footwear if your route includes trekking.",
+    "pack": [
+      "Original CNIC or another valid photo ID",
+      "Cash for personal expenses and local charges",
+      "Comfortable walking shoes, or trekking shoes for trekking routes",
+      "Clothes for the season that you can layer",
+      "Warm jacket and a rain or windproof outer layer",
+      "Your personal and prescribed medicines",
+      "Toiletries, a towel and hygiene essentials",
+      "Reusable water bottle",
+      "Sunglasses, sunscreen and a cap or hat",
+      "Phone, charger and power bank",
+      "Small day bag for sightseeing and essentials"
+    ],
+    "included": [
+      "Comfortable transport for the whole trip",
+      "Fuel and road tolls",
+      "Hotel stays in your chosen room-sharing option",
+      "Meals: 2 breakfasts and 1 dinner",
+      "One bonfire night (weather, venue and local conditions permitting)",
+      "Professional trip guidance"
+    ],
+    "excluded": [
+      "Jeep transfers and local 4x4 rides",
+      "Personal expenses",
+      "Optional activities, activity charges and other paid experiences",
+      "Entry tickets, permits, equipment hire and attraction fees",
+      "Lunches and any meals not in the meal plan"
+    ],
+    "departures": [
+      {
+        "city": "Lahore",
+        "schedule": "Friday Night"
+      },
+      {
+        "city": "Islamabad",
+        "schedule": "Saturday Morning"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What does the package include?",
+        "a": "Everything listed under Inclusions above. Check the Exclusions too, and our team will confirm the final inclusions with you before you book."
+      },
+      {
+        "q": "Are local jeep rides and activities included?",
+        "a": "No, unless they appear in the inclusions. Local jeep and 4x4 transfers, chairlifts, entry tickets and optional activities are paid separately, so ask our team about any charges for this destination before you travel."
+      },
+      {
+        "q": "Which cities do you depart from?",
+        "a": "We usually leave Lahore on Friday night and Islamabad on Saturday morning. This is our regular schedule, not a confirmed departure date, so message us to check availability for the date you want."
+      },
+      {
+        "q": "Which meals are included?",
+        "a": "This 2-day trip includes 2 breakfasts and 1 dinner. Lunches and any meals not listed in your final booking confirmation are not included, and our team will confirm the meal plan before departure."
+      },
+      {
+        "q": "What should I pack?",
+        "a": "Bring a valid photo ID, comfortable shoes, clothes for the weather, a warm jacket, rain protection, any medication you need, toiletries, a water bottle, sun protection, your phone charger and power bank, and some cash for personal expenses."
+      },
+      {
+        "q": "How do I book a seat?",
+        "a": "Tap the Enquire About This Trip button or message us on WhatsApp. Before you pay anything, we'll confirm the departure date, seat availability, final price and how to pay or secure your seat."
+      },
+      {
+        "q": "Can the plan change because of weather or roads?",
+        "a": "Yes. Mountain weather, road access, local restrictions and safety can all affect the plan. If a route or stop becomes unsafe or unreachable, we'll adjust the route or swap in another stop."
+      }
+    ],
+    "pricing": [
+      {
+        "label": "Starting From",
+        "sub": "4–5 Persons Sharing",
+        "amount": 11999
+      },
+      {
+        "label": "Couple Price",
+        "sub": "2 Persons Room Sharing",
+        "amount": 13500
+      }
+    ],
+    "hiking": false
+  },
+  {
+    "slug": "naran-babusar-top-3-days",
+    "name": "Naran Valley & Babusar Top",
+    "duration": 3,
+    "location": "Naran Valley, Babusar Top",
+    "short": "Naran Valley and the views around Babusar Top, when the pass is open for the season.",
+    "image": "/images/naran.webp",
+    "available": true,
+    "price": 13999,
+    "priceOld": 14999,
+    "couple": 34000,
+    "coupleOld": 36000,
+    "departure": "Enquire for Availability",
+    "transport": "Coaster/Hiace",
+    "hotel": "Neat & Clean",
+    "meals": "3 breakfasts / 2 dinners",
+    "overview": "Three days in Naran Valley, with a full day out towards Lulusar Lake and Babusar Top. Babusar depends on seasonal road access.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Drive to Naran via Kaghan Valley",
+        "description": "We leave the pickup point and drive up to Naran, stopping at rest areas and scenic spots when time and traffic allow. After checking in, you'll have free time to freshen up and wander around Naran Bazaar or down by the Kunhar River. Dinner and overnight in Naran."
+      },
+      {
+        "day": 2,
+        "title": "Saif-ul-Malook, Lulusar Lake and Babusar Top",
+        "description": "The day starts with breakfast and a check on road and weather conditions. We visit viewpoints around Naran, then continue to Lulusar Lake and Babusar Top if the pass is officially open. The jeep to Lake Saif-ul-Malook, any other 4x4 transfer, boating, entry tickets and optional activities are paid separately. There's time for stops and photos before we head back to Naran for dinner and the night."
+      },
+      {
+        "day": 3,
+        "title": "Checkout and Drive Home",
+        "description": "Pack up and check out after breakfast. If time, traffic and the route allow, we'll make a few short stops at viewpoints on the way back. There are rest and refreshment breaks before we reach the drop-off point, and arrival time depends on road, weather and traffic."
+      }
+    ],
+    "packIntro": "A few essentials make the trip far more comfortable. Pack for the season, check the forecast before you leave, and bring extra layers and proper footwear if your route includes trekking.",
+    "pack": [
+      "Original CNIC or another valid photo ID",
+      "Cash for personal expenses and local charges",
+      "Comfortable walking shoes, or trekking shoes for trekking routes",
+      "Clothes for the season that you can layer",
+      "Warm jacket and a rain or windproof outer layer",
+      "Your personal and prescribed medicines",
+      "Toiletries, a towel and hygiene essentials",
+      "Reusable water bottle",
+      "Sunglasses, sunscreen and a cap or hat",
+      "Phone, charger and power bank",
+      "Small day bag for sightseeing and essentials"
+    ],
+    "included": [
+      "Comfortable transport for the whole trip",
+      "Fuel and road tolls",
+      "Hotel stays in your chosen room-sharing option",
+      "Meals: 3 breakfasts and 2 dinners",
+      "One bonfire night (weather, venue and local conditions permitting)",
+      "Professional trip guidance"
+    ],
+    "excluded": [
+      "Jeep transfers and local 4x4 rides",
+      "Personal expenses",
+      "Optional activities, activity charges and other paid experiences",
+      "Entry tickets, permits, equipment hire and attraction fees",
+      "Lunches and any meals not in the meal plan"
+    ],
+    "departures": [
+      {
+        "city": "Lahore",
+        "schedule": "Monday & Thursday Night"
+      },
+      {
+        "city": "Islamabad",
+        "schedule": "Tuesday & Friday Morning"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What does the package include?",
+        "a": "Everything listed under Inclusions above. Check the Exclusions too, and our team will confirm the final inclusions with you before you book."
+      },
+      {
+        "q": "Are local jeep rides and activities included?",
+        "a": "No, unless they appear in the inclusions. Local jeep and 4x4 transfers, chairlifts, entry tickets and optional activities are paid separately, so ask our team about any charges for this destination before you travel."
+      },
+      {
+        "q": "Which cities do you depart from?",
+        "a": "We usually leave Lahore on Monday and Thursday nights and Islamabad on Tuesday and Friday mornings. This is our regular schedule, not a confirmed departure date, so message us to check availability for the date you want."
+      },
+      {
+        "q": "Which meals are included?",
+        "a": "This 3-day trip includes 3 breakfasts and 2 dinners. Lunches and any meals not listed in your final booking confirmation are not included, and our team will confirm the meal plan before departure."
+      },
+      {
+        "q": "What should I pack?",
+        "a": "Bring a valid photo ID, comfortable shoes, clothes for the weather, a warm jacket, rain protection, any medication you need, toiletries, a water bottle, sun protection, your phone charger and power bank, and some cash for personal expenses."
+      },
+      {
+        "q": "How do I book a seat?",
+        "a": "Tap the Enquire About This Trip button or message us on WhatsApp. Before you pay anything, we'll confirm the departure date, seat availability, final price and how to pay or secure your seat."
+      },
+      {
+        "q": "Can the plan change because of weather or roads?",
+        "a": "Yes. Mountain weather, road access, local restrictions and safety can all affect the plan. If a route or stop becomes unsafe or unreachable, we'll adjust the route or swap in another stop."
+      }
+    ],
+    "pricing": [
+      {
+        "label": "Starting From",
+        "sub": "4–5 Persons Sharing",
+        "amount": 14999
+      },
+      {
+        "label": "Couple Price",
+        "sub": "2 Persons Room Sharing",
+        "amount": 18000
+      }
+    ],
+    "hiking": false
+  },
+  {
+    "slug": "neelum-valley-arang-kel-3-days",
+    "name": "Neelum Valley & Arang Kel",
+    "duration": 3,
+    "location": "Neelum Valley, Arang Kel",
+    "short": "Rivers, green valleys and the hillside village of Arang Kel in Azad Kashmir.",
+    "image": "/images/neelum.webp",
+    "available": true,
+    "price": 13999,
+    "priceOld": 14999,
+    "couple": 34000,
+    "coupleOld": 36000,
+    "departure": "Enquire for Availability",
+    "transport": "Coaster/Hiace",
+    "hotel": "Neat & Clean",
+    "meals": "3 breakfasts / 2 dinners",
+    "overview": "Three days along the Neelum River in Azad Kashmir, with green valleys, river views and a walk up to the hillside village of Arang Kel.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Along Neelum Valley to Sharda or Keran",
+        "description": "We leave the pickup point and head into Azad Kashmir, clearing any checkpoints or entry formalities on the way. The road follows the Neelum River, with rest and photo stops, plus viewpoints or waterfalls if timing and road conditions allow. We check in at the hotel, have dinner and spend the night in Sharda or Keran."
+      },
+      {
+        "day": 2,
+        "title": "Kel and Arang Kel Village",
+        "description": "After breakfast we continue to Kel, the starting point for Arang Kel. The walk up is uphill, so we take it at the group's pace, with rest stops and time at the village viewpoints. Local jeep transfers, chairlift or cable-car fares, porters and optional activities are not included and are paid directly. We return to the hotel for dinner and the night."
+      },
+      {
+        "day": 3,
+        "title": "Valley Stops and Return",
+        "description": "Check out after breakfast and start the drive back. Where the schedule allows, we stop at viewpoints or by the river, with rest breaks along the way before drop-offs. Final timings depend on traffic, checkpoints and road conditions."
+      }
+    ],
+    "packIntro": "A few essentials make the trip far more comfortable. Pack for the season, check the forecast before you leave, and bring extra layers and proper footwear if your route includes trekking.",
+    "pack": [
+      "Original CNIC or another valid photo ID",
+      "Cash for personal expenses and local charges",
+      "Comfortable walking shoes, or trekking shoes for trekking routes",
+      "Clothes for the season that you can layer",
+      "Warm jacket and a rain or windproof outer layer",
+      "Your personal and prescribed medicines",
+      "Toiletries, a towel and hygiene essentials",
+      "Reusable water bottle",
+      "Sunglasses, sunscreen and a cap or hat",
+      "Phone, charger and power bank",
+      "Small daypack, extra socks and trekking poles if you use them",
+      "Warm gloves, a woollen cap and a headlamp or torch",
+      "Light snacks for the trail"
+    ],
+    "included": [
+      "Comfortable transport for the whole trip",
+      "Fuel and road tolls",
+      "Hotel stays in your chosen room-sharing option",
+      "Meals: 3 breakfasts and 2 dinners",
+      "One bonfire night (weather, venue and local conditions permitting)",
+      "Professional trip guidance"
+    ],
+    "excluded": [
+      "Jeep transfers and local 4x4 rides",
+      "Personal expenses",
+      "Optional activities, activity charges and other paid experiences",
+      "Entry tickets, permits, equipment hire and attraction fees",
+      "Lunches and any meals not in the meal plan"
+    ],
+    "departures": [
+      {
+        "city": "Lahore",
+        "schedule": "Monday & Thursday Night"
+      },
+      {
+        "city": "Islamabad",
+        "schedule": "Tuesday & Friday Morning"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What does the package include?",
+        "a": "Everything listed under Inclusions above. Check the Exclusions too, and our team will confirm the final inclusions with you before you book."
+      },
+      {
+        "q": "Are local jeep rides and activities included?",
+        "a": "No, unless they appear in the inclusions. Local jeep and 4x4 transfers, chairlifts, entry tickets and optional activities are paid separately, so ask our team about any charges for this destination before you travel."
+      },
+      {
+        "q": "Which cities do you depart from?",
+        "a": "We usually leave Lahore on Monday and Thursday nights and Islamabad on Tuesday and Friday mornings. This is our regular schedule, not a confirmed departure date, so message us to check availability for the date you want."
+      },
+      {
+        "q": "Which meals are included?",
+        "a": "This 3-day trip includes 3 breakfasts and 2 dinners. Lunches and any meals not listed in your final booking confirmation are not included, and our team will confirm the meal plan before departure."
+      },
+      {
+        "q": "What should I pack?",
+        "a": "Bring a valid photo ID, comfortable trekking shoes, layers, a warm jacket, rain protection, any medication you need, toiletries, a water bottle, sun protection, your phone charger and power bank, and some cash. For the trek, add a small daypack, extra socks, warm gloves and a cap, a headlamp or torch, and light snacks."
+      },
+      {
+        "q": "How do I book a seat?",
+        "a": "Tap the Enquire About This Trip button or message us on WhatsApp. Before you pay anything, we'll confirm the departure date, seat availability, final price and how to pay or secure your seat."
+      },
+      {
+        "q": "Can the plan change because of weather or roads?",
+        "a": "Yes. Mountain weather, road access, local restrictions and safety can all affect the plan. If a route or stop becomes unsafe or unreachable, we'll adjust the route or swap in another stop."
+      }
+    ],
+    "pricing": [
+      {
+        "label": "Starting From",
+        "sub": "4–5 Persons Sharing",
+        "amount": 14999
+      },
+      {
+        "label": "Couple Price",
+        "sub": "2 Persons Room Sharing",
+        "amount": 18000
+      }
+    ],
+    "hiking": false
+  },
+  {
+    "slug": "swat-valley-mahodand-lake-3-days",
+    "name": "Swat Valley & Mahodand Lake",
+    "duration": 3,
+    "location": "Swat Valley, Mahodand Lake",
+    "short": "Swat's mountain scenery and a day out to Mahodand Lake, depending on road and weather conditions.",
+    "image": "/images/swat.webp",
+    "available": true,
+    "price": 13999,
+    "priceOld": 14999,
+    "couple": 34000,
+    "coupleOld": 36000,
+    "departure": "Enquire for Availability",
+    "transport": "Coaster/Hiace",
+    "hotel": "Neat & Clean",
+    "meals": "3 breakfasts / 2 dinners",
+    "overview": "Three days in Swat with a base in Kalam and a day out to Ushu Forest and Mahodand Lake. The Mahodand visit depends on local road and weather conditions.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Drive to Swat and Kalam",
+        "description": "We set off from the pickup point and drive through Swat up to Kalam, with rest stops and viewpoints along the way. After checking in, settle in or take a walk around the bazaar and river area if there's still daylight. Dinner and overnight in Kalam."
+      },
+      {
+        "day": 2,
+        "title": "Ushu Forest and Mahodand Lake",
+        "description": "After breakfast we head into upper Kalam to see Ushu Forest and Mahodand Lake, as far as access and weather allow. The road to Mahodand may need a local 4x4 jeep, which is not included and is paid separately. Boating, activity charges, entry fees and personal expenses are also extra. We return to Kalam for dinner and the night."
+      },
+      {
+        "day": 3,
+        "title": "Checkout and Return",
+        "description": "Once everyone has had breakfast and checked out, we start the drive home. We take rest stops and, if timing allows, a few quick roadside viewpoints. Arrival at the drop-off point depends on road and traffic conditions."
+      }
+    ],
+    "packIntro": "A few essentials make the trip far more comfortable. Pack for the season, check the forecast before you leave, and bring extra layers and proper footwear if your route includes trekking.",
+    "pack": [
+      "Original CNIC or another valid photo ID",
+      "Cash for personal expenses and local charges",
+      "Comfortable walking shoes, or trekking shoes for trekking routes",
+      "Clothes for the season that you can layer",
+      "Warm jacket and a rain or windproof outer layer",
+      "Your personal and prescribed medicines",
+      "Toiletries, a towel and hygiene essentials",
+      "Reusable water bottle",
+      "Sunglasses, sunscreen and a cap or hat",
+      "Phone, charger and power bank",
+      "Small day bag for sightseeing and essentials"
+    ],
+    "included": [
+      "Comfortable transport for the whole trip",
+      "Fuel and road tolls",
+      "Hotel stays in your chosen room-sharing option",
+      "Meals: 3 breakfasts and 2 dinners",
+      "One bonfire night (weather, venue and local conditions permitting)",
+      "Professional trip guidance"
+    ],
+    "excluded": [
+      "Jeep transfers and local 4x4 rides",
+      "Personal expenses",
+      "Optional activities, activity charges and other paid experiences",
+      "Entry tickets, permits, equipment hire and attraction fees",
+      "Lunches and any meals not in the meal plan"
+    ],
+    "departures": [
+      {
+        "city": "Lahore",
+        "schedule": "Monday & Thursday Night"
+      },
+      {
+        "city": "Islamabad",
+        "schedule": "Tuesday & Friday Morning"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What does the package include?",
+        "a": "Everything listed under Inclusions above. Check the Exclusions too, and our team will confirm the final inclusions with you before you book."
+      },
+      {
+        "q": "Are local jeep rides and activities included?",
+        "a": "No, unless they appear in the inclusions. Local jeep and 4x4 transfers, chairlifts, entry tickets and optional activities are paid separately, so ask our team about any charges for this destination before you travel."
+      },
+      {
+        "q": "Which cities do you depart from?",
+        "a": "We usually leave Lahore on Monday and Thursday nights and Islamabad on Tuesday and Friday mornings. This is our regular schedule, not a confirmed departure date, so message us to check availability for the date you want."
+      },
+      {
+        "q": "Which meals are included?",
+        "a": "This 3-day trip includes 3 breakfasts and 2 dinners. Lunches and any meals not listed in your final booking confirmation are not included, and our team will confirm the meal plan before departure."
+      },
+      {
+        "q": "What should I pack?",
+        "a": "Bring a valid photo ID, comfortable shoes, clothes for the weather, a warm jacket, rain protection, any medication you need, toiletries, a water bottle, sun protection, your phone charger and power bank, and some cash for personal expenses."
+      },
+      {
+        "q": "How do I book a seat?",
+        "a": "Tap the Enquire About This Trip button or message us on WhatsApp. Before you pay anything, we'll confirm the departure date, seat availability, final price and how to pay or secure your seat."
+      },
+      {
+        "q": "Can the plan change because of weather or roads?",
+        "a": "Yes. Mountain weather, road access, local restrictions and safety can all affect the plan. If a route or stop becomes unsafe or unreachable, we'll adjust the route or swap in another stop."
+      }
+    ],
+    "pricing": [
+      {
+        "label": "Starting From",
+        "sub": "4–5 Persons Sharing",
+        "amount": 14999
+      },
+      {
+        "label": "Couple Price",
+        "sub": "2 Persons Room Sharing",
+        "amount": 18000
+      }
+    ],
+    "hiking": false
+  },
+  {
+    "slug": "kumrat-valley-kala-chashma-3-days",
+    "name": "Kumrat Valley & Kala Chashma",
+    "duration": 3,
+    "location": "Kumrat Valley, Kala Chashma",
+    "short": "Kumrat's forests and riverside scenery, and the area around Kala Chashma.",
+    "image": "/images/kumrat.webp",
+    "available": false,
+    "price": 13999,
+    "priceOld": 14999,
+    "couple": 34000,
+    "coupleOld": 36000,
+    "departure": "Enquire for Availability",
+    "transport": "Coaster/Hiace",
+    "hotel": "Neat & Clean",
+    "meals": "3 breakfasts / 2 dinners",
+    "overview": "Three days in Kumrat Valley, with forest trails, river views and a visit to the Kala Chashma area.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Drive to Kumrat Valley",
+        "description": "We leave the pickup point and drive through Dir towards Thal and Kumrat Valley, with rest stops on the way. We stay in a hotel, campsite or guesthouse, as set out in your final itinerary. After check-in, there's time by the river or in the forest if the day allows. Dinner and overnight in Kumrat."
+      },
+      {
+        "day": 2,
+        "title": "Kumrat Forest, River and Kala Chashma",
+        "description": "The day is for forest trails, riverside viewpoints and the Kala Chashma area, as far as road and local conditions allow. Local jeep or 4x4 transfers, optional activities, equipment hire and personal purchases are not included. In the evening we're back at our stay for dinner and a bonfire, weather and venue permitting."
+      },
+      {
+        "day": 3,
+        "title": "Checkout and Drive Home",
+        "description": "After breakfast and checkout, there may be time for a last short walk or photo stop. We then drive back on the planned route, stopping for refreshments, to the drop-off point. Travel time depends on road conditions."
+      }
+    ],
+    "packIntro": "A few essentials make the trip far more comfortable. Pack for the season, check the forecast before you leave, and bring extra layers and proper footwear if your route includes trekking.",
+    "pack": [
+      "Original CNIC or another valid photo ID",
+      "Cash for personal expenses and local charges",
+      "Comfortable walking shoes, or trekking shoes for trekking routes",
+      "Clothes for the season that you can layer",
+      "Warm jacket and a rain or windproof outer layer",
+      "Your personal and prescribed medicines",
+      "Toiletries, a towel and hygiene essentials",
+      "Reusable water bottle",
+      "Sunglasses, sunscreen and a cap or hat",
+      "Phone, charger and power bank",
+      "Small day bag for sightseeing and essentials"
+    ],
+    "included": [
+      "Comfortable transport for the whole trip",
+      "Fuel and road tolls",
+      "Hotel stays in your chosen room-sharing option",
+      "Meals: 3 breakfasts and 2 dinners",
+      "One bonfire night (weather, venue and local conditions permitting)",
+      "Professional trip guidance"
+    ],
+    "excluded": [
+      "Jeep transfers and local 4x4 rides",
+      "Personal expenses",
+      "Optional activities, activity charges and other paid experiences",
+      "Entry tickets, permits, equipment hire and attraction fees",
+      "Lunches and any meals not in the meal plan"
+    ],
+    "departures": [
+      {
+        "city": "Lahore",
+        "schedule": "Monday & Thursday Night"
+      },
+      {
+        "city": "Islamabad",
+        "schedule": "Tuesday & Friday Morning"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What does the package include?",
+        "a": "Everything listed under Inclusions above. Check the Exclusions too, and our team will confirm the final inclusions with you before you book."
+      },
+      {
+        "q": "Are local jeep rides and activities included?",
+        "a": "No, unless they appear in the inclusions. Local jeep and 4x4 transfers, chairlifts, entry tickets and optional activities are paid separately, so ask our team about any charges for this destination before you travel."
+      },
+      {
+        "q": "Which cities do you depart from?",
+        "a": "We usually leave Lahore on Monday and Thursday nights and Islamabad on Tuesday and Friday mornings. This is our regular schedule, not a confirmed departure date, so message us to check availability for the date you want."
+      },
+      {
+        "q": "Which meals are included?",
+        "a": "This 3-day trip includes 3 breakfasts and 2 dinners. Lunches and any meals not listed in your final booking confirmation are not included, and our team will confirm the meal plan before departure."
+      },
+      {
+        "q": "What should I pack?",
+        "a": "Bring a valid photo ID, comfortable shoes, clothes for the weather, a warm jacket, rain protection, any medication you need, toiletries, a water bottle, sun protection, your phone charger and power bank, and some cash for personal expenses."
+      },
+      {
+        "q": "How do I book a seat?",
+        "a": "Tap the Enquire About This Trip button or message us on WhatsApp. Before you pay anything, we'll confirm the departure date, seat availability, final price and how to pay or secure your seat."
+      },
+      {
+        "q": "Can the plan change because of weather or roads?",
+        "a": "Yes. Mountain weather, road access, local restrictions and safety can all affect the plan. If a route or stop becomes unsafe or unreachable, we'll adjust the route or swap in another stop."
+      }
+    ],
+    "pricing": [
+      {
+        "label": "Starting From",
+        "sub": "4–5 Persons Sharing",
+        "amount": 14999
+      },
+      {
+        "label": "Couple Price",
+        "sub": "2 Persons Room Sharing",
+        "amount": 18000
+      }
+    ],
+    "hiking": false
+  },
+  {
+    "slug": "kumrat-valley-katora-lake-4-days",
+    "name": "Kumrat Valley & Katora Lake",
+    "duration": 4,
+    "location": "Kumrat Valley, Katora Lake",
+    "short": "Kumrat Valley with a trek to Katora Lake, depending on trail conditions.",
+    "image": "/images/kumrat.webp",
+    "available": true,
+    "price": 18999,
+    "priceOld": 19999,
+    "couple": 46000,
+    "coupleOld": 48000,
+    "departure": "Enquire for Availability",
+    "transport": "Coaster/Hiace",
+    "hotel": "Neat & Clean",
+    "meals": "4 breakfasts / 3 dinners",
+    "overview": "Four days in Kumrat Valley, including a trek via Jahaz Banda to Katora Lake. We confirm the trekking plan before departure, and it depends on trail and weather conditions.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Drive to Kumrat Valley",
+        "description": "We set off from the pickup point and drive via Dir and Thal to Kumrat Valley, stopping for meals or refreshments along the way. After we check in at our hotel, guesthouse or campsite, the guide runs through the next day's route with the group. Dinner and overnight in Kumrat."
+      },
+      {
+        "day": 2,
+        "title": "Kumrat to Jahaz Banda Meadows",
+        "description": "After breakfast we transfer to the Jahaz Banda trailhead; local jeep or 4x4 transfers to remote trailheads are not included. The trek goes at a pace that suits the group, with rest stops and viewpoints along the way. It ends at our overnight stay or campsite, where dinner is served."
+      },
+      {
+        "day": 3,
+        "title": "Katora Lake Trek",
+        "description": "An early start with breakfast or the agreed trek meal, then we follow the guide's route up to Katora Lake. We allow plenty of time for the climb, weather checks, rest breaks and photos. The trek depends on weather and fitness, and we won't continue if the guide decides conditions are unsafe. Afterwards we head back down the trail to our overnight stop, and optional porters and personal expenses are not included."
+      },
+      {
+        "day": 4,
+        "title": "Descent and Drive Home",
+        "description": "Pack up after breakfast and head down or transfer back to the meeting point, depending on where we spent the night. From there, the group vehicle takes us home through Thal and Dir with rest stops on the way. Arrival time depends on trail, road and weather conditions."
+      }
+    ],
+    "packIntro": "A few essentials make the trip far more comfortable. Pack for the season, check the forecast before you leave, and bring extra layers and proper footwear if your route includes trekking.",
+    "pack": [
+      "Original CNIC or another valid photo ID",
+      "Cash for personal expenses and local charges",
+      "Comfortable walking shoes, or trekking shoes for trekking routes",
+      "Clothes for the season that you can layer",
+      "Warm jacket and a rain or windproof outer layer",
+      "Your personal and prescribed medicines",
+      "Toiletries, a towel and hygiene essentials",
+      "Reusable water bottle",
+      "Sunglasses, sunscreen and a cap or hat",
+      "Phone, charger and power bank",
+      "Small daypack, extra socks and trekking poles if you use them",
+      "Warm gloves, a woollen cap and a headlamp or torch",
+      "Light snacks for the trail"
+    ],
+    "included": [
+      "Comfortable transport for the whole trip",
+      "Fuel and road tolls",
+      "Hotel stays in your chosen room-sharing option",
+      "Meals: 4 breakfasts and 3 dinners",
+      "One bonfire night (weather, venue and local conditions permitting)",
+      "Professional trip guidance"
+    ],
+    "excluded": [
+      "Jeep transfers and local 4x4 rides",
+      "Personal expenses",
+      "Optional activities, activity charges and other paid experiences",
+      "Entry tickets, permits, equipment hire and attraction fees",
+      "Lunches and any meals not in the meal plan"
+    ],
+    "departures": [
+      {
+        "city": "Lahore",
+        "schedule": "Wednesday Night"
+      },
+      {
+        "city": "Islamabad",
+        "schedule": "Thursday Morning"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What does the package include?",
+        "a": "Everything listed under Inclusions above. Check the Exclusions too, and our team will confirm the final inclusions with you before you book."
+      },
+      {
+        "q": "Are local jeep rides and activities included?",
+        "a": "No, unless they appear in the inclusions. Local jeep and 4x4 transfers, chairlifts, entry tickets and optional activities are paid separately, so ask our team about any charges for this destination before you travel."
+      },
+      {
+        "q": "Which cities do you depart from?",
+        "a": "We usually leave Lahore on Wednesday night and Islamabad on Thursday morning. This is our regular schedule, not a confirmed departure date, so message us to check availability for the date you want."
+      },
+      {
+        "q": "Which meals are included?",
+        "a": "This 4-day trip includes 4 breakfasts and 3 dinners. Lunches and any meals not listed in your final booking confirmation are not included, and our team will confirm the meal plan before departure."
+      },
+      {
+        "q": "What should I pack?",
+        "a": "Bring a valid photo ID, comfortable trekking shoes, layers, a warm jacket, rain protection, any medication you need, toiletries, a water bottle, sun protection, your phone charger and power bank, and some cash. For the trek, add a small daypack, extra socks, warm gloves and a cap, a headlamp or torch, and light snacks."
+      },
+      {
+        "q": "How do I book a seat?",
+        "a": "Tap the Enquire About This Trip button or message us on WhatsApp. Before you pay anything, we'll confirm the departure date, seat availability, final price and how to pay or secure your seat."
+      },
+      {
+        "q": "Can the plan change because of weather or roads?",
+        "a": "Yes. Mountain weather, road access, local restrictions and safety can all affect the plan. If a route or stop becomes unsafe or unreachable, we'll adjust the route or swap in another stop."
+      }
+    ],
+    "pricing": [
+      {
+        "label": "Starting From",
+        "sub": "4–5 Persons Sharing",
+        "amount": 19999
+      },
+      {
+        "label": "Couple Price",
+        "sub": "2 Persons Room Sharing",
+        "amount": 24000
+      }
+    ],
+    "hiking": false
+  },
+  {
+    "slug": "chitta-katha-lake-4-days",
+    "name": "Chitta Katha Lake",
+    "duration": 4,
+    "location": "Chitta Katha Lake, Azad Kashmir",
+    "short": "A mountain trip to an alpine lake in Azad Kashmir, with the route and trekking plan confirmed before departure.",
+    "image": "/images/neelum.webp",
+    "available": false,
+    "price": 33999,
+    "priceOld": 34999,
+    "couple": 78000,
+    "coupleOld": 80000,
+    "departure": "Enquire for Availability",
+    "transport": "Coaster/Hiace",
+    "hotel": "Neat & Clean",
+    "meals": "4 breakfasts / 3 dinners",
+    "overview": "A mountain trip towards Chitta Katha, an alpine lake in Azad Kashmir. We confirm the route and trekking plan with you before departure.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Travel Towards Chitta Katha Lake",
+        "description": "We set off from the pickup point towards Chitta Katha Lake in Azad Kashmir, on the route that suits the trip dates. There are rest stops along the way, and roadside viewpoints if time allows. We check in on arrival, then have dinner and spend the night."
+      },
+      {
+        "day": 2,
+        "title": "Exploring Around Chitta Katha Lake",
+        "description": "After breakfast, we spend the day around Chitta Katha Lake. Your guide sets the order of stops, rest breaks and meeting times based on local conditions. Jeep transfers, local 4x4 rides, entry tickets, optional paid activities and personal expenses are not included. We return to our accommodation for dinner and the night."
+      },
+      {
+        "day": 3,
+        "title": "Another Day at Chitta Katha Lake",
+        "description": "Day three is another day around the lake area, following the plan your guide sets. Stops, breaks and meeting times again depend on local conditions. As before, jeep and 4x4 rides, entry tickets, optional activities and personal expenses are extra. Dinner and overnight back at our accommodation."
+      },
+      {
+        "day": 4,
+        "title": "Checkout and Return",
+        "description": "Check out after breakfast and start the drive back to the drop-off point, with rest and refreshment stops on the way. Arrival time depends on traffic, weather and road conditions."
+      }
+    ],
+    "packIntro": "A few essentials make the trip far more comfortable. Pack for the season, check the forecast before you leave, and bring extra layers and proper footwear if your route includes trekking.",
+    "pack": [
+      "Original CNIC or another valid photo ID",
+      "Cash for personal expenses and local charges",
+      "Comfortable walking shoes, or trekking shoes for trekking routes",
+      "Clothes for the season that you can layer",
+      "Warm jacket and a rain or windproof outer layer",
+      "Your personal and prescribed medicines",
+      "Toiletries, a towel and hygiene essentials",
+      "Reusable water bottle",
+      "Sunglasses, sunscreen and a cap or hat",
+      "Phone, charger and power bank",
+      "Small daypack, extra socks and trekking poles if you use them",
+      "Warm gloves, a woollen cap and a headlamp or torch",
+      "Light snacks for the trail"
+    ],
+    "included": [
+      "Comfortable transport for the whole trip",
+      "Fuel and road tolls",
+      "Hotel stays in your chosen room-sharing option",
+      "Meals: 4 breakfasts and 3 dinners",
+      "One bonfire night (weather, venue and local conditions permitting)",
+      "Professional trip guidance"
+    ],
+    "excluded": [
+      "Jeep transfers and local 4x4 rides",
+      "Personal expenses",
+      "Optional activities, activity charges and other paid experiences",
+      "Entry tickets, permits, equipment hire and attraction fees",
+      "Lunches and any meals not in the meal plan"
+    ],
+    "departures": [
+      {
+        "city": "Lahore",
+        "schedule": "Wednesday Night"
+      },
+      {
+        "city": "Islamabad",
+        "schedule": "Thursday Morning"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What does the package include?",
+        "a": "Everything listed under Inclusions above. Check the Exclusions too, and our team will confirm the final inclusions with you before you book."
+      },
+      {
+        "q": "Are local jeep rides and activities included?",
+        "a": "No, unless they appear in the inclusions. Local jeep and 4x4 transfers, chairlifts, entry tickets and optional activities are paid separately, so ask our team about any charges for this destination before you travel."
+      },
+      {
+        "q": "Which cities do you depart from?",
+        "a": "We usually leave Lahore on Wednesday night and Islamabad on Thursday morning. This is our regular schedule, not a confirmed departure date, so message us to check availability for the date you want."
+      },
+      {
+        "q": "Which meals are included?",
+        "a": "This 4-day trip includes 4 breakfasts and 3 dinners. Lunches and any meals not listed in your final booking confirmation are not included, and our team will confirm the meal plan before departure."
+      },
+      {
+        "q": "What should I pack?",
+        "a": "Bring a valid photo ID, comfortable trekking shoes, layers, a warm jacket, rain protection, any medication you need, toiletries, a water bottle, sun protection, your phone charger and power bank, and some cash. For the trek, add a small daypack, extra socks, warm gloves and a cap, a headlamp or torch, and light snacks."
+      },
+      {
+        "q": "How do I book a seat?",
+        "a": "Tap the Enquire About This Trip button or message us on WhatsApp. Before you pay anything, we'll confirm the departure date, seat availability, final price and how to pay or secure your seat."
+      },
+      {
+        "q": "Can the plan change because of weather or roads?",
+        "a": "Yes. Mountain weather, road access, local restrictions and safety can all affect the plan. If a route or stop becomes unsafe or unreachable, we'll adjust the route or swap in another stop."
+      }
+    ],
+    "pricing": [
+      {
+        "label": "Starting From",
+        "sub": "4–5 Persons Sharing",
+        "amount": 19999
+      },
+      {
+        "label": "Couple Price",
+        "sub": "2 Persons Room Sharing",
+        "amount": 24000
+      }
+    ],
+    "hiking": true
+  },
+  {
+    "slug": "neelum-valley-arang-kel-taobat-4-days",
+    "name": "Neelum Valley, Arang Kel & Taobat",
+    "duration": 4,
+    "location": "Neelum Valley, Arang Kel, Taobat",
+    "short": "Villages and mountain scenery across Neelum Valley, including Arang Kel and Taobat.",
+    "image": "/images/neelum.webp",
+    "available": true,
+    "price": 18999,
+    "priceOld": 19999,
+    "couple": 46000,
+    "coupleOld": 48000,
+    "departure": "Enquire for Availability",
+    "transport": "Coaster/Hiace",
+    "hotel": "Neat & Clean",
+    "meals": "4 breakfasts / 3 dinners",
+    "overview": "Four days in Neelum Valley, taking in its villages and mountain landscapes with time around Arang Kel and Taobat.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Drive to Neelum Valley",
+        "description": "We leave the pickup point and drive into Neelum Valley on the route that suits the trip dates. Expect rest stops, plus roadside viewpoints when time allows. We check in on arrival, then have dinner and spend the night."
+      },
+      {
+        "day": 2,
+        "title": "Exploring Neelum, Arang Kel and Taobat",
+        "description": "Today is for sightseeing around Neelum Valley, Arang Kel and Taobat. Your guide decides the order of stops, rest breaks and meeting times based on local conditions. Jeep transfers, local 4x4 rides, entry tickets, optional paid activities and personal expenses are not included. Dinner and overnight back at our accommodation."
+      },
+      {
+        "day": 3,
+        "title": "Second Day of Valley Sightseeing",
+        "description": "Breakfast, then another full day exploring the valley with your guide, who plans the stops and breaks around local conditions. Jeep and 4x4 rides, entry tickets, optional activities and personal expenses are extra, as before. We're back at our accommodation in the evening for dinner and the night."
+      },
+      {
+        "day": 4,
+        "title": "Checkout and Drive Home",
+        "description": "Once breakfast and checkout are done, we drive back towards the drop-off point, stopping for rest and refreshments. Arrival time depends on traffic, weather and road conditions."
+      }
+    ],
+    "packIntro": "A few essentials make the trip far more comfortable. Pack for the season, check the forecast before you leave, and bring extra layers and proper footwear if your route includes trekking.",
+    "pack": [
+      "Original CNIC or another valid photo ID",
+      "Cash for personal expenses and local charges",
+      "Comfortable walking shoes, or trekking shoes for trekking routes",
+      "Clothes for the season that you can layer",
+      "Warm jacket and a rain or windproof outer layer",
+      "Your personal and prescribed medicines",
+      "Toiletries, a towel and hygiene essentials",
+      "Reusable water bottle",
+      "Sunglasses, sunscreen and a cap or hat",
+      "Phone, charger and power bank",
+      "Small daypack, extra socks and trekking poles if you use them",
+      "Warm gloves, a woollen cap and a headlamp or torch",
+      "Light snacks for the trail"
+    ],
+    "included": [
+      "Comfortable transport for the whole trip",
+      "Fuel and road tolls",
+      "Hotel stays in your chosen room-sharing option",
+      "Meals: 4 breakfasts and 3 dinners",
+      "One bonfire night (weather, venue and local conditions permitting)",
+      "Professional trip guidance"
+    ],
+    "excluded": [
+      "Jeep transfers and local 4x4 rides",
+      "Personal expenses",
+      "Optional activities, activity charges and other paid experiences",
+      "Entry tickets, permits, equipment hire and attraction fees",
+      "Lunches and any meals not in the meal plan"
+    ],
+    "departures": [
+      {
+        "city": "Lahore",
+        "schedule": "Wednesday Night"
+      },
+      {
+        "city": "Islamabad",
+        "schedule": "Thursday Morning"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What does the package include?",
+        "a": "Everything listed under Inclusions above. Check the Exclusions too, and our team will confirm the final inclusions with you before you book."
+      },
+      {
+        "q": "Are local jeep rides and activities included?",
+        "a": "No, unless they appear in the inclusions. Local jeep and 4x4 transfers, chairlifts, entry tickets and optional activities are paid separately, so ask our team about any charges for this destination before you travel."
+      },
+      {
+        "q": "Which cities do you depart from?",
+        "a": "We usually leave Lahore on Wednesday night and Islamabad on Thursday morning. This is our regular schedule, not a confirmed departure date, so message us to check availability for the date you want."
+      },
+      {
+        "q": "Which meals are included?",
+        "a": "This 4-day trip includes 4 breakfasts and 3 dinners. Lunches and any meals not listed in your final booking confirmation are not included, and our team will confirm the meal plan before departure."
+      },
+      {
+        "q": "What should I pack?",
+        "a": "Bring a valid photo ID, comfortable trekking shoes, layers, a warm jacket, rain protection, any medication you need, toiletries, a water bottle, sun protection, your phone charger and power bank, and some cash. For the trek, add a small daypack, extra socks, warm gloves and a cap, a headlamp or torch, and light snacks."
+      },
+      {
+        "q": "How do I book a seat?",
+        "a": "Tap the Enquire About This Trip button or message us on WhatsApp. Before you pay anything, we'll confirm the departure date, seat availability, final price and how to pay or secure your seat."
+      },
+      {
+        "q": "Can the plan change because of weather or roads?",
+        "a": "Yes. Mountain weather, road access, local restrictions and safety can all affect the plan. If a route or stop becomes unsafe or unreachable, we'll adjust the route or swap in another stop."
+      }
+    ],
+    "pricing": [
+      {
+        "label": "Starting From",
+        "sub": "4–5 Persons Sharing",
+        "amount": 19999
+      },
+      {
+        "label": "Couple Price",
+        "sub": "2 Persons Room Sharing",
+        "amount": 24000
+      }
+    ],
+    "hiking": false
+  },
+  {
+    "slug": "hunza-valley-5-days",
+    "name": "Hunza Valley",
+    "duration": 5,
+    "location": "Hunza Valley, Gilgit-Baltistan",
+    "short": "Hunza's mountain views, historic villages and best-known Karakoram viewpoints.",
+    "image": "/images/hunza.webp",
+    "available": true,
+    "price": 23999,
+    "priceOld": 24999,
+    "couple": 56000,
+    "coupleOld": 58000,
+    "departure": "Enquire for Availability",
+    "transport": "Coaster/Hiace",
+    "hotel": "Neat & Clean",
+    "meals": "5 breakfasts / 4 dinners",
+    "overview": "Five days on the road to Hunza, with time in Karimabad, around Baltit and Altit, and up the Karakoram Highway to Attabad Lake, Gulmit and Passu.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Heading North to Gilgit-Baltistan",
+        "description": "We leave the pickup point and start the drive north on whichever route is open for the season, with rest and refreshment stops along the way. Where we stop for the night depends on your departure city, road conditions and whether the Babusar route is open."
+      },
+      {
+        "day": 2,
+        "title": "Karakoram Highway to Hunza",
+        "description": "After breakfast, we continue north and stop at viewpoints along the way, including around Gilgit if timing allows. Once we reach Hunza and check in, the rest of the day is free to explore Karimabad or the nearby bazaar. Dinner and overnight in Hunza."
+      },
+      {
+        "day": 3,
+        "title": "Karimabad, Baltit Fort and Altit",
+        "description": "A day in and around Karimabad, with its bazaar and viewpoints. Baltit Fort, Altit Fort and other paid sites may be on the plan, but entry tickets and optional activities are not included. You'll have free time for photos and shopping before dinner and the night at the hotel."
+      },
+      {
+        "day": 4,
+        "title": "Attabad Lake, Gulmit and Passu",
+        "description": "Today we drive up the Karakoram Highway to Attabad Lake and Upper Hunza, stopping for views along the way. We continue to viewpoints around Gulmit and Passu as far as the road and timing allow. Boating, suspension bridge tickets, ziplines and other paid activities are extra. Back to the hotel for dinner and the night."
+      },
+      {
+        "day": 5,
+        "title": "Checkout and Return",
+        "description": "Time to head home. After breakfast and checkout, we drive back with rest stops along the way, and arrival time depends on road access, weather and traffic."
+      }
+    ],
+    "packIntro": "A few essentials make the trip far more comfortable. Pack for the season, check the forecast before you leave, and bring extra layers and proper footwear if your route includes trekking.",
+    "pack": [
+      "Original CNIC or another valid photo ID",
+      "Cash for personal expenses and local charges",
+      "Comfortable walking shoes, or trekking shoes for trekking routes",
+      "Clothes for the season that you can layer",
+      "Warm jacket and a rain or windproof outer layer",
+      "Your personal and prescribed medicines",
+      "Toiletries, a towel and hygiene essentials",
+      "Reusable water bottle",
+      "Sunglasses, sunscreen and a cap or hat",
+      "Phone, charger and power bank",
+      "Small day bag for sightseeing and essentials"
+    ],
+    "included": [
+      "Comfortable transport for the whole trip",
+      "Fuel and road tolls",
+      "Hotel stays in your chosen room-sharing option",
+      "Meals: 5 breakfasts and 4 dinners",
+      "One bonfire night (weather, venue and local conditions permitting)",
+      "Professional trip guidance"
+    ],
+    "excluded": [
+      "Jeep transfers and local 4x4 rides",
+      "Personal expenses",
+      "Optional activities, activity charges and other paid experiences",
+      "Entry tickets, permits, equipment hire and attraction fees",
+      "Lunches and any meals not in the meal plan"
+    ],
+    "departures": [
+      {
+        "city": "Lahore",
+        "schedule": "Tuesday & Friday Night"
+      },
+      {
+        "city": "Islamabad",
+        "schedule": "Wednesday & Saturday Morning"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What does the package include?",
+        "a": "Everything listed under Inclusions above. Check the Exclusions too, and our team will confirm the final inclusions with you before you book."
+      },
+      {
+        "q": "Are local jeep rides and activities included?",
+        "a": "No, unless they appear in the inclusions. Local jeep and 4x4 transfers, chairlifts, entry tickets and optional activities are paid separately, so ask our team about any charges for this destination before you travel."
+      },
+      {
+        "q": "Which cities do you depart from?",
+        "a": "We usually leave Lahore on Tuesday and Friday nights and Islamabad on Wednesday and Saturday mornings. This is our regular schedule, not a confirmed departure date, so message us to check availability for the date you want."
+      },
+      {
+        "q": "Which meals are included?",
+        "a": "This 5-day trip includes 5 breakfasts and 4 dinners. Lunches and any meals not listed in your final booking confirmation are not included, and our team will confirm the meal plan before departure."
+      },
+      {
+        "q": "What should I pack?",
+        "a": "Bring a valid photo ID, comfortable shoes, clothes for the weather, a warm jacket, rain protection, any medication you need, toiletries, a water bottle, sun protection, your phone charger and power bank, and some cash for personal expenses."
+      },
+      {
+        "q": "How do I book a seat?",
+        "a": "Tap the Enquire About This Trip button or message us on WhatsApp. Before you pay anything, we'll confirm the departure date, seat availability, final price and how to pay or secure your seat."
+      },
+      {
+        "q": "Can the plan change because of weather or roads?",
+        "a": "Yes. Mountain weather, road access, local restrictions and safety can all affect the plan. If a route or stop becomes unsafe or unreachable, we'll adjust the route or swap in another stop."
+      }
+    ],
+    "pricing": [
+      {
+        "label": "Starting From",
+        "sub": "4–5 Persons Sharing",
+        "amount": 24999
+      },
+      {
+        "label": "Couple Price",
+        "sub": "2 Persons Room Sharing",
+        "amount": 29000
+      }
+    ],
+    "hiking": false
+  },
+  {
+    "slug": "fairy-meadows-5-days",
+    "name": "Fairy Meadows & Nanga Parbat",
+    "duration": 5,
+    "location": "Fairy Meadows, Nanga Parbat",
+    "short": "Alpine meadows and close views of Nanga Parbat. We confirm local jeep transfers and trekking arrangements with you before the trip.",
+    "image": "/images/fairy-meadows.webp",
+    "available": true,
+    "price": 23999,
+    "priceOld": 24999,
+    "couple": 56000,
+    "coupleOld": 58000,
+    "departure": "Enquire for Availability",
+    "transport": "Coaster/Hiace",
+    "hotel": "Neat & Clean",
+    "meals": "5 breakfasts / 4 dinners",
+    "overview": "Five days to Fairy Meadows, with a jeep ride to Tato, a trek up to the meadows and a full day near Nanga Parbat. Local jeep transfers and trekking arrangements are confirmed with you before the trip.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Road Journey to Raikot Bridge",
+        "description": "We set off from the pickup point and drive north towards Raikot Bridge, with rest and refreshment stops along the way. Depending on your departure city and the roads, we spend the night at a planned stop on the way or near the bridge."
+      },
+      {
+        "day": 2,
+        "title": "Jeep to Tato and Trek to Fairy Meadows",
+        "description": "After breakfast we head to the trailhead. The 4x4 jeep from Raikot Bridge to Tato is not included and is paid locally. From Tato, we trek uphill to Fairy Meadows with the guide at a steady group pace, with rest stops. We check in at our hut, guesthouse or camp and enjoy the evening if the weather allows."
+      },
+      {
+        "day": 3,
+        "title": "Fairy Meadows and Nanga Parbat Views",
+        "description": "A full day at Fairy Meadows, exploring the viewpoints with the guide. An optional walk towards Beyal Camp or Nanga Parbat Base Camp depends on fitness, weather, trail conditions and the final plan. Optional activities, pony or porter hire, equipment hire and personal purchases are not included. We spend another night at the meadows."
+      },
+      {
+        "day": 4,
+        "title": "Descend to Tato and Drive On",
+        "description": "Pack up after breakfast and walk back down from Fairy Meadows to Tato at a safe, steady pace, resting as needed. From Tato, the local jeep takes us to Raikot Bridge, and this fare is not included. There we rejoin our transport and drive on to the night's stop."
+      },
+      {
+        "day": 5,
+        "title": "Return Journey",
+        "description": "The last day is the drive home. After breakfast and checkout, we head back with rest stops along the way, and arrival time depends on your departure city, the roads and traffic."
+      }
+    ],
+    "packIntro": "A few essentials make the trip far more comfortable. Pack for the season, check the forecast before you leave, and bring extra layers and proper footwear if your route includes trekking.",
+    "pack": [
+      "Original CNIC or another valid photo ID",
+      "Cash for personal expenses and local charges",
+      "Comfortable walking shoes, or trekking shoes for trekking routes",
+      "Clothes for the season that you can layer",
+      "Warm jacket and a rain or windproof outer layer",
+      "Your personal and prescribed medicines",
+      "Toiletries, a towel and hygiene essentials",
+      "Reusable water bottle",
+      "Sunglasses, sunscreen and a cap or hat",
+      "Phone, charger and power bank",
+      "Small daypack, extra socks and trekking poles if you use them",
+      "Warm gloves, a woollen cap and a headlamp or torch",
+      "Light snacks for the trail"
+    ],
+    "included": [
+      "Comfortable transport for the whole trip",
+      "Fuel and road tolls",
+      "Hotel stays in your chosen room-sharing option",
+      "Meals: 5 breakfasts and 4 dinners",
+      "One bonfire night (weather, venue and local conditions permitting)",
+      "Professional trip guidance"
+    ],
+    "excluded": [
+      "Jeep transfers and local 4x4 rides",
+      "Personal expenses",
+      "Optional activities, activity charges and other paid experiences",
+      "Entry tickets, permits, equipment hire and attraction fees",
+      "Lunches and any meals not in the meal plan"
+    ],
+    "departures": [
+      {
+        "city": "Lahore",
+        "schedule": "Tuesday & Friday Night"
+      },
+      {
+        "city": "Islamabad",
+        "schedule": "Wednesday & Saturday Morning"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What does the package include?",
+        "a": "Everything listed under Inclusions above. Check the Exclusions too, and our team will confirm the final inclusions with you before you book."
+      },
+      {
+        "q": "Are local jeep rides and activities included?",
+        "a": "No, unless they appear in the inclusions. Local jeep and 4x4 transfers, chairlifts, entry tickets and optional activities are paid separately, so ask our team about any charges for this destination before you travel."
+      },
+      {
+        "q": "Which cities do you depart from?",
+        "a": "We usually leave Lahore on Tuesday and Friday nights and Islamabad on Wednesday and Saturday mornings. This is our regular schedule, not a confirmed departure date, so message us to check availability for the date you want."
+      },
+      {
+        "q": "Which meals are included?",
+        "a": "This 5-day trip includes 5 breakfasts and 4 dinners. Lunches and any meals not listed in your final booking confirmation are not included, and our team will confirm the meal plan before departure."
+      },
+      {
+        "q": "What should I pack?",
+        "a": "Bring a valid photo ID, comfortable trekking shoes, layers, a warm jacket, rain protection, any medication you need, toiletries, a water bottle, sun protection, your phone charger and power bank, and some cash. For the trek, add a small daypack, extra socks, warm gloves and a cap, a headlamp or torch, and light snacks."
+      },
+      {
+        "q": "How do I book a seat?",
+        "a": "Tap the Enquire About This Trip button or message us on WhatsApp. Before you pay anything, we'll confirm the departure date, seat availability, final price and how to pay or secure your seat."
+      },
+      {
+        "q": "Can the plan change because of weather or roads?",
+        "a": "Yes. Mountain weather, road access, local restrictions and safety can all affect the plan. If a route or stop becomes unsafe or unreachable, we'll adjust the route or swap in another stop."
+      }
+    ],
+    "pricing": [
+      {
+        "label": "Starting From",
+        "sub": "4–5 Persons Sharing",
+        "amount": 24999
+      },
+      {
+        "label": "Couple Price",
+        "sub": "2 Persons Room Sharing",
+        "amount": 29000
+      }
+    ],
+    "hiking": false
+  },
+  {
+    "slug": "skardu-valley-deosai-6-days",
+    "name": "Skardu Valley & Deosai",
+    "duration": 6,
+    "location": "Skardu Valley, Deosai Plains",
+    "short": "Skardu's mountain scenery and the wide Deosai Plains, when the park is open for the season.",
+    "image": "/images/deosai.webp",
+    "available": true,
+    "price": 26499,
+    "priceOld": 27499,
+    "couple": 60000,
+    "coupleOld": 62000,
+    "departure": "Enquire for Availability",
+    "transport": "Coaster/Hiace",
+    "hotel": "Neat & Clean",
+    "meals": "6 breakfasts / 5 dinners",
+    "overview": "Six days in and around Skardu, with its lakes and viewpoints and a day out to Deosai and Sheosar Lake. Deosai is only reachable in season.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Heading North",
+        "description": "We leave the pickup point and start the drive towards Gilgit-Baltistan, with rest stops along the way. Where we spend the night depends on the route and road conditions."
+      },
+      {
+        "day": 2,
+        "title": "On to Skardu",
+        "description": "After breakfast, we continue to Skardu, stopping at viewpoints when time allows. Once you've checked in, you can explore the nearby market or a local viewpoint if there's time before dinner."
+      },
+      {
+        "day": 3,
+        "title": "Skardu and Nearby Sights",
+        "description": "Today is for Skardu's viewpoints and landmarks. Stops may include Shangrila (Lower Kachura), Upper Kachura or other places on the final plan. Entry tickets, boating and optional activities are not included. Dinner and overnight at the hotel."
+      },
+      {
+        "day": 4,
+        "title": "Deosai Plains and Sheosar Lake",
+        "description": "We head up to Deosai only if the park route is officially open and the weather allows. Local jeep or 4x4 transfers are not included and are paid separately where needed. With the guide, we visit the viewpoints and Sheosar Lake, then return to Skardu or the planned overnight stop. If Deosai is closed, we'll talk you through a workable alternative."
+      },
+      {
+        "day": 5,
+        "title": "Valley Excursion and Packing Up",
+        "description": "The last full day covers the remaining planned stops, such as a nearby valley, fort or viewpoint. Entry tickets and optional experiences are extra. Back at the hotel, collect your luggage and get ready for the return leg."
+      },
+      {
+        "day": 6,
+        "title": "Return Journey",
+        "description": "We check out after breakfast and drive home, stopping for refreshments and rest at planned spots. Arrival time depends on the road, the weather and your drop-off city."
+      }
+    ],
+    "packIntro": "A few essentials make the trip far more comfortable. Pack for the season, check the forecast before you leave, and bring extra layers and proper footwear if your route includes trekking.",
+    "pack": [
+      "Original CNIC or another valid photo ID",
+      "Cash for personal expenses and local charges",
+      "Comfortable walking shoes, or trekking shoes for trekking routes",
+      "Clothes for the season that you can layer",
+      "Warm jacket and a rain or windproof outer layer",
+      "Your personal and prescribed medicines",
+      "Toiletries, a towel and hygiene essentials",
+      "Reusable water bottle",
+      "Sunglasses, sunscreen and a cap or hat",
+      "Phone, charger and power bank",
+      "Small day bag for sightseeing and essentials"
+    ],
+    "included": [
+      "Comfortable transport for the whole trip",
+      "Fuel and road tolls",
+      "Hotel stays in your chosen room-sharing option",
+      "Meals: 6 breakfasts and 5 dinners",
+      "One bonfire night (weather, venue and local conditions permitting)",
+      "Professional trip guidance"
+    ],
+    "excluded": [
+      "Jeep transfers and local 4x4 rides",
+      "Personal expenses",
+      "Optional activities, activity charges and other paid experiences",
+      "Entry tickets, permits, equipment hire and attraction fees",
+      "Lunches and any meals not in the meal plan"
+    ],
+    "departures": [
+      {
+        "city": "Lahore",
+        "schedule": "Monday & Friday Night"
+      },
+      {
+        "city": "Islamabad",
+        "schedule": "Tuesday & Saturday Morning"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What does the package include?",
+        "a": "Everything listed under Inclusions above. Check the Exclusions too, and our team will confirm the final inclusions with you before you book."
+      },
+      {
+        "q": "Are local jeep rides and activities included?",
+        "a": "No, unless they appear in the inclusions. Local jeep and 4x4 transfers, chairlifts, entry tickets and optional activities are paid separately, so ask our team about any charges for this destination before you travel."
+      },
+      {
+        "q": "Which cities do you depart from?",
+        "a": "We usually leave Lahore on Monday and Friday nights and Islamabad on Tuesday and Saturday mornings. This is our regular schedule, not a confirmed departure date, so message us to check availability for the date you want."
+      },
+      {
+        "q": "Which meals are included?",
+        "a": "This 6-day trip includes 6 breakfasts and 5 dinners. Lunches and any meals not listed in your final booking confirmation are not included, and our team will confirm the meal plan before departure."
+      },
+      {
+        "q": "What should I pack?",
+        "a": "Bring a valid photo ID, comfortable shoes, clothes for the weather, a warm jacket, rain protection, any medication you need, toiletries, a water bottle, sun protection, your phone charger and power bank, and some cash for personal expenses."
+      },
+      {
+        "q": "How do I book a seat?",
+        "a": "Tap the Enquire About This Trip button or message us on WhatsApp. Before you pay anything, we'll confirm the departure date, seat availability, final price and how to pay or secure your seat."
+      },
+      {
+        "q": "Can the plan change because of weather or roads?",
+        "a": "Yes. Mountain weather, road access, local restrictions and safety can all affect the plan. If a route or stop becomes unsafe or unreachable, we'll adjust the route or swap in another stop."
+      }
+    ],
+    "pricing": [
+      {
+        "label": "Starting From",
+        "sub": "4–5 Persons Sharing",
+        "amount": 27499
+      },
+      {
+        "label": "Couple Price",
+        "sub": "2 Persons Room Sharing",
+        "amount": 31000
+      }
+    ],
+    "hiking": false
+  },
+  {
+    "slug": "haramosh-valley-kutwal-lake-6-days",
+    "name": "Haramosh Valley & Kutwal Lake",
+    "duration": 6,
+    "location": "Haramosh Valley, Kutwal Lake",
+    "short": "A mountain trip through Haramosh Valley with a trek to Kutwal Lake, on a route we confirm before departure.",
+    "image": "/images/skardu.webp",
+    "available": true,
+    "price": 43999,
+    "priceOld": 44999,
+    "couple": 98000,
+    "coupleOld": 100000,
+    "departure": "Enquire for Availability",
+    "transport": "Coaster/Hiace",
+    "hotel": "Neat & Clean",
+    "meals": "6 breakfasts / 5 dinners",
+    "overview": "Six days in Haramosh Valley, built around a trek to Kutwal Lake. Planned jeep and 4x4 transfers for the hiking route are included, and we confirm the route with you before departure.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Travel to Haramosh Valley",
+        "description": "We set off from the pickup point towards Haramosh Valley, on the route that suits the trip dates. Expect rest stops and roadside viewpoints when time allows, then check-in, dinner and the night at our accommodation. The planned jeep and 4x4 transfers needed for the hiking route are included, but extra or off-itinerary jeep rides are not unless agreed separately."
+      },
+      {
+        "day": 2,
+        "title": "Exploring Haramosh Valley and Kutwal Lake",
+        "description": "After breakfast, we head out on the day's plan around Haramosh Valley and Kutwal Lake. Your guide sets the order of stops, rest breaks and meeting times based on local conditions. Entry tickets, optional paid activities and personal expenses are not included. Dinner and overnight at our accommodation."
+      },
+      {
+        "day": 3,
+        "title": "Valley and Lake Exploration Continues",
+        "description": "Another day exploring Haramosh Valley and Kutwal Lake with your guide. The plan for stops and breaks depends on local conditions on the day. Entry tickets, optional activities and personal expenses are extra. We're back at our accommodation for dinner and the night."
+      },
+      {
+        "day": 4,
+        "title": "Another Day Around Haramosh",
+        "description": "We start with breakfast and carry on exploring the valley and lake area, following your guide's plan for the day. Stops, rest breaks and meeting times are set around local conditions. Entry tickets, optional activities and personal expenses are paid separately. Dinner and overnight at our accommodation."
+      },
+      {
+        "day": 5,
+        "title": "Final Day in Haramosh Valley",
+        "description": "Your last full day in Haramosh, again following the guide's plan around the valley and Kutwal Lake. The order of stops and breaks depends on local conditions. Entry tickets, optional activities and personal expenses are not included. Dinner and overnight at our accommodation."
+      },
+      {
+        "day": 6,
+        "title": "Checkout and Return",
+        "description": "We check out after breakfast and head back to the drop-off point, with rest and refreshment stops along the way. Arrival time depends on traffic, weather and road conditions."
+      }
+    ],
+    "packIntro": "A few essentials make the trip far more comfortable. Pack for the season, check the forecast before you leave, and bring extra layers and proper footwear if your route includes trekking.",
+    "pack": [
+      "Original CNIC or another valid photo ID",
+      "Cash for personal expenses and local charges",
+      "Comfortable walking shoes, or trekking shoes for trekking routes",
+      "Clothes for the season that you can layer",
+      "Warm jacket and a rain or windproof outer layer",
+      "Your personal and prescribed medicines",
+      "Toiletries, a towel and hygiene essentials",
+      "Reusable water bottle",
+      "Sunglasses, sunscreen and a cap or hat",
+      "Phone, charger and power bank",
+      "Small daypack, extra socks and trekking poles if you use them",
+      "Warm gloves, a woollen cap and a headlamp or torch",
+      "Light snacks for the trail"
+    ],
+    "included": [
+      "Comfortable transport for the whole trip",
+      "Planned jeep transfers and local 4x4 charges needed for the hiking route",
+      "Fuel and road tolls",
+      "Hotel stays in your chosen room-sharing option",
+      "Meals: 6 breakfasts and 5 dinners",
+      "One bonfire night (weather, venue and local conditions permitting)",
+      "Professional trip guidance"
+    ],
+    "excluded": [
+      "Personal expenses",
+      "Optional activities, activity charges and other paid experiences",
+      "Entry tickets, permits, equipment hire and attraction fees",
+      "Lunches and any meals not in the meal plan"
+    ],
+    "departures": [
+      {
+        "city": "Lahore",
+        "schedule": "Monday & Friday Night"
+      },
+      {
+        "city": "Islamabad",
+        "schedule": "Tuesday & Saturday Morning"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What does the package include?",
+        "a": "Everything listed under Inclusions above. Check the Exclusions too, and our team will confirm the final inclusions with you before you book."
+      },
+      {
+        "q": "Are local jeep rides and activities included?",
+        "a": "The planned jeep and 4x4 transfers needed for the hiking route are included. Extra or off-itinerary jeep rides, chairlifts, entry tickets and optional activities are paid separately, so ask our team about local charges before you travel."
+      },
+      {
+        "q": "Which cities do you depart from?",
+        "a": "We usually leave Lahore on Monday and Friday nights and Islamabad on Tuesday and Saturday mornings. This is our regular schedule, not a confirmed departure date, so message us to check availability for the date you want."
+      },
+      {
+        "q": "Which meals are included?",
+        "a": "This 6-day trip includes 6 breakfasts and 5 dinners. Lunches and any meals not listed in your final booking confirmation are not included, and our team will confirm the meal plan before departure."
+      },
+      {
+        "q": "What should I pack?",
+        "a": "Bring a valid photo ID, comfortable trekking shoes, layers, a warm jacket, rain protection, any medication you need, toiletries, a water bottle, sun protection, your phone charger and power bank, and some cash. For the trek, add a small daypack, extra socks, warm gloves and a cap, a headlamp or torch, and light snacks."
+      },
+      {
+        "q": "How do I book a seat?",
+        "a": "Tap the Enquire About This Trip button or message us on WhatsApp. Before you pay anything, we'll confirm the departure date, seat availability, final price and how to pay or secure your seat."
+      },
+      {
+        "q": "Can the plan change because of weather or roads?",
+        "a": "Yes. Mountain weather, road access, local restrictions and safety can all affect the plan. If a route or stop becomes unsafe or unreachable, we'll adjust the route or swap in another stop."
+      }
+    ],
+    "pricing": [
+      {
+        "label": "Starting From",
+        "sub": "4–5 Persons Sharing",
+        "amount": 44999
+      },
+      {
+        "label": "Couple Price",
+        "sub": "2 Persons Room Sharing",
+        "amount": null
+      }
+    ],
+    "hiking": true
+  },
+  {
+    "slug": "hunza-skardu-8-days",
+    "name": "Hunza & Skardu",
+    "duration": 8,
+    "location": "Hunza Valley, Skardu",
+    "short": "Hunza and Skardu, two of northern Pakistan's best-known mountain regions, on one longer trip.",
+    "image": "/images/skardu.webp",
+    "available": true,
+    "price": 35999,
+    "priceOld": 36999,
+    "couple": 82000,
+    "coupleOld": 84000,
+    "departure": "Enquire for Availability",
+    "transport": "Coaster/Hiace",
+    "hotel": "Neat & Clean",
+    "meals": "8 breakfasts / 7 dinners",
+    "overview": "Eight days covering Karimabad and Upper Hunza, then Skardu's lakes and viewpoints, with Deosai when it's open for the season.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Heading North",
+        "description": "We leave the pickup point and drive north on whichever route is open for the season, with rest and refreshment stops along the way. We spend the night at a planned stop on the route."
+      },
+      {
+        "day": 2,
+        "title": "On to Hunza",
+        "description": "After breakfast, we continue up the Karakoram Highway, stopping at viewpoints when timing allows. Once we reach Hunza and check in, you can explore nearby if there's daylight left. Dinner and overnight in Hunza."
+      },
+      {
+        "day": 3,
+        "title": "Karimabad and Hunza Heritage",
+        "description": "Today we explore Karimabad and the viewpoints around it. Baltit Fort, Altit Fort and other paid sites can be visited along the way, but entry fees and optional activities are not included. Dinner and overnight at the hotel."
+      },
+      {
+        "day": 4,
+        "title": "Attabad Lake and Upper Hunza",
+        "description": "We drive out to Attabad Lake, Gulmit and Passu, stopping for views where allowed. Boating, bridge tickets, ziplines and other paid activities are extra. Back to the hotel for the night."
+      },
+      {
+        "day": 5,
+        "title": "Hunza to Skardu",
+        "description": "We check out after breakfast and take the planned route across to Skardu, with rest stops and viewpoints along the way. On arrival, we check in for dinner and the night."
+      },
+      {
+        "day": 6,
+        "title": "Skardu and Kachura",
+        "description": "A day for Skardu's sights, which may include the Kachura lakes or other viewpoints on the final plan. Entry tickets, boating, jeep rides and optional activities are not included. Dinner and overnight at the hotel."
+      },
+      {
+        "day": 7,
+        "title": "Deosai or Another Valley Trip",
+        "description": "If the Deosai route is officially open, permitted and safe, we head up to Deosai and Sheosar Lake. Local jeep or 4x4 transfers are not included. If the season or weather rules Deosai out, your guide will suggest an accessible alternative on our route. Afterwards we return to our accommodation or get ready for the journey home, depending on the schedule."
+      },
+      {
+        "day": 8,
+        "title": "Return Journey",
+        "description": "After breakfast and checkout, we drive back to the drop-off point with rest stops along the way. Travel time can change with the weather, roads and traffic."
+      }
+    ],
+    "packIntro": "A few essentials make the trip far more comfortable. Pack for the season, check the forecast before you leave, and bring extra layers and proper footwear if your route includes trekking.",
+    "pack": [
+      "Original CNIC or another valid photo ID",
+      "Cash for personal expenses and local charges",
+      "Comfortable walking shoes, or trekking shoes for trekking routes",
+      "Clothes for the season that you can layer",
+      "Warm jacket and a rain or windproof outer layer",
+      "Your personal and prescribed medicines",
+      "Toiletries, a towel and hygiene essentials",
+      "Reusable water bottle",
+      "Sunglasses, sunscreen and a cap or hat",
+      "Phone, charger and power bank",
+      "Small day bag for sightseeing and essentials"
+    ],
+    "included": [
+      "Comfortable transport for the whole trip",
+      "Fuel and road tolls",
+      "Hotel stays in your chosen room-sharing option",
+      "Meals: 8 breakfasts and 7 dinners",
+      "One bonfire night (weather, venue and local conditions permitting)",
+      "Professional trip guidance"
+    ],
+    "excluded": [
+      "Jeep transfers and local 4x4 rides",
+      "Personal expenses",
+      "Optional activities, activity charges and other paid experiences",
+      "Entry tickets, permits, equipment hire and attraction fees",
+      "Lunches and any meals not in the meal plan"
+    ],
+    "departures": [
+      {
+        "city": "Lahore",
+        "schedule": "Monday & Friday Night"
+      },
+      {
+        "city": "Islamabad",
+        "schedule": "Tuesday & Saturday Morning"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What does the package include?",
+        "a": "Everything listed under Inclusions above. Check the Exclusions too, and our team will confirm the final inclusions with you before you book."
+      },
+      {
+        "q": "Are local jeep rides and activities included?",
+        "a": "No, unless they appear in the inclusions. Local jeep and 4x4 transfers, chairlifts, entry tickets and optional activities are paid separately, so ask our team about any charges for this destination before you travel."
+      },
+      {
+        "q": "Which cities do you depart from?",
+        "a": "We usually leave Lahore on Monday and Friday nights and Islamabad on Tuesday and Saturday mornings. This is our regular schedule, not a confirmed departure date, so message us to check availability for the date you want."
+      },
+      {
+        "q": "Which meals are included?",
+        "a": "This 8-day trip includes 8 breakfasts and 7 dinners. Lunches and any meals not listed in your final booking confirmation are not included, and our team will confirm the meal plan before departure."
+      },
+      {
+        "q": "What should I pack?",
+        "a": "Bring a valid photo ID, comfortable shoes, clothes for the weather, a warm jacket, rain protection, any medication you need, toiletries, a water bottle, sun protection, your phone charger and power bank, and some cash for personal expenses."
+      },
+      {
+        "q": "How do I book a seat?",
+        "a": "Tap the Enquire About This Trip button or message us on WhatsApp. Before you pay anything, we'll confirm the departure date, seat availability, final price and how to pay or secure your seat."
+      },
+      {
+        "q": "Can the plan change because of weather or roads?",
+        "a": "Yes. Mountain weather, road access, local restrictions and safety can all affect the plan. If a route or stop becomes unsafe or unreachable, we'll adjust the route or swap in another stop."
+      }
+    ],
+    "pricing": [
+      {
+        "label": "Starting From",
+        "sub": "4–5 Persons Sharing",
+        "amount": 36999
+      },
+      {
+        "label": "Couple Price",
+        "sub": "2 Persons Room Sharing",
+        "amount": 42000
+      }
+    ],
+    "hiking": false
+  },
+  {
+    "slug": "rakaposhi-basecamp",
+    "name": "Rakaposhi Basecamp",
+    "duration": 5,
+    "location": "Minapin, Nagar Valley, Gilgit-Baltistan",
+    "short": "A trek through Nagar Valley towards the Rakaposhi viewpoint. Contact our team for the detailed itinerary and current trail conditions.",
+    "image": "/images/hunza.webp",
+    "available": true,
+    "price": 33999,
+    "priceOld": 34999,
+    "couple": 78000,
+    "coupleOld": 80000,
+    "transport": "Coaster/Hiace",
+    "hotel": "Neat & Clean",
+    "meals": null,
+    "overview": "Trek through the rugged mountain landscape of Nagar Valley towards the Rakaposhi viewpoint. Get in touch with our team to confirm the detailed itinerary and trail conditions.",
+    "itinerary": [],
+    "packIntro": "",
+    "pack": [],
+    "included": [],
+    "excluded": [],
+    "departures": [],
+    "faqs": [],
+    "pricing": [
+      {
+        "label": "Starting From",
+        "sub": "4–5 Persons Sharing",
+        "amount": 33999
+      }
+    ],
+    "hiking": true,
+    "departure": "Departure Every Week"
+  }
+]

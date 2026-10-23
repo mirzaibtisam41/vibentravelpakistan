@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Vibe & Travel Pakistan — redesign
 
-## Getting Started
+Next.js 16 rebuild of [vibentravelpakistan.com](https://vibentravelpakistan.com) using the same content and images, with a new visual design, GSAP animation and Three.js scenes.
 
-First, run the development server:
+## Run
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+npm run dev      # http://localhost:3000
+npm run build && npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next.js 16** (App Router, Cache Components, all routes prerendered)
+- **Tailwind CSS v4**, with design tokens in `src/app/globals.css`
+- **GSAP 3** (ScrollTrigger, SplitText, Flip) via `@gsap/react`
+- **Three.js** via `@react-three/fiber` + `drei`
+- **Lenis** for smooth scrolling
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Palette: "Karakoram Dusk"
 
-## Learn More
+| Token | Hex | Use |
+| --- | --- | --- |
+| `pine-700` | `#025F32` | Brand green (from the original logo) |
+| `night` / `pine-950` | `#05140F` / `#061D15` | Dark immersive sections |
+| `glacier-400` | `#4FC7BC` | Accent (glacier lakes such as Attabad) |
+| `alpen-400` | `#F7A95C` | Primary CTA (alpenglow on the peaks) |
+| `snow` / `sand` | `#F7F4EC` / `#ECE5D6` | Light section backgrounds |
 
-To learn more about Next.js, take a look at the following resources:
+Display type is Manrope 800, with Instrument Serif italic for accent words.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Where things live
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| Path | What |
+| --- | --- |
+| `src/data/packages.json` | All 15 packages (itinerary, pricing, FAQs, inclusions), extracted from the live site |
+| `src/data/site.ts` | Contact details, destinations, hero slides and form options |
+| `src/components/three/` | `MountainScene` (procedural Karakoram valley in the hero) and `FloatingIsland` (low-poly 3D island) |
+| `src/components/home/` | Homepage sections: 3D card deck, flip tiles, 3D destination ring and others |
+| `src/components/forms/` | Custom-trip wizard and contact form |
 
-## Deploy on Vercel
+## Forms
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The forms have no backend. On submit they open WhatsApp (`+92 313 6295767`) with a pre-filled message containing every field. To send them to an email or CRM instead, replace the `submit` handlers in `src/components/forms/`.
