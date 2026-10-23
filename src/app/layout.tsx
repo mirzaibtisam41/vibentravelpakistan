@@ -21,7 +21,10 @@ const instrument = Instrument_Serif({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://vibentravelpakistan.com"),
+  // Share-preview images resolve against the domain this build is served from (Vercel sets this at build time).
+  metadataBase: new URL(
+    process.env.VERCEL_PROJECT_PRODUCTION_URL ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}` : "https://vibentravelpakistan.com",
+  ),
   title: {
     default: "Vibe & Travel Pakistan | Discover Pakistan",
     template: "%s | Vibe & Travel Pakistan",
@@ -32,7 +35,8 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Vibe & Travel Pakistan | Discover Pakistan",
     description: "Extraordinary places, unforgettable journeys. Discover Pakistan your way.",
-    images: ["/images/hunza.webp"],
+    // JPG, not WebP: WhatsApp and some other link previews don't render WebP.
+    images: [{ url: "/images/og.jpg", width: 1200, height: 630, alt: "Hunza Valley and the Karakoram mountains" }],
   },
 };
 

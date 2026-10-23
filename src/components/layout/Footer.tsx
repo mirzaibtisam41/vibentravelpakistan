@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useRef } from "react";
+import { usePathname } from "next/navigation";
 import { ArrowUpRight, Phone } from "lucide-react";
 import { gsap, useGSAP } from "@/lib/gsap";
 import { nav, site } from "@/data/site";
@@ -10,6 +11,8 @@ import { generalWhatsapp } from "@/lib/utils";
 
 export default function Footer() {
   const ref = useRef<HTMLElement>(null);
+  // Package pages raise the floating buttons above the sticky "Enquire" bar (see FloatingActions).
+  const onPackage = usePathname().startsWith("/tour-packages/");
 
   useGSAP(
     () => {
@@ -124,7 +127,9 @@ export default function Footer() {
       </div>
 
       {/* Extra bottom space on phones keeps the line clear of the floating buttons. */}
-      <div className="container-x relative z-10 border-t border-white/10 pb-40 pt-6 text-center text-sm text-white/50 sm:pb-6">
+      <div
+        className={`container-x relative z-10 border-t border-white/10 pt-6 text-center text-sm text-white/50 lg:pb-6 ${onPackage ? "pb-60" : "pb-40 sm:pb-6"}`}
+      >
         <p>© 2026 Vibe &amp; Travel Pakistan. All rights reserved.</p>
       </div>
     </footer>
